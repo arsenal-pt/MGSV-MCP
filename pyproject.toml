@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mgsv-mcp"
+version = "0.3.2"
+description = "MGSV wiki, entity research, and modding tool workbench over MCP"
+requires-python = ">=3.11"
+dependencies = ["mcp==2.3.0", "PyYAML==6.0.3"]
+
+[project.optional-dependencies]
+test = ["pytest==9.1.1"]
+
+[project.scripts]
+mgsv-mcp = "mgsv_mcp.server:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

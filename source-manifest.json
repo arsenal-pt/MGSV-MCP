@@ -1,0 +1,255 @@
+{
+  "project": "MGSV MCP",
+  "version": "0.3.2",
+  "date": "2026-10-15",
+  "license": "GPL-3.0-only for eligible original code/docs; upstream terms preserved",
+  "excluded": [
+    "local config/client registration",
+    "caches/upstream snapshots",
+    "third-party binaries",
+    "game resources/saves",
+    "private workbench/mod history"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 135,
+      "sha256": "898cce9e06df51b1c6983ca867f61249d01e55b2d0bb4fece414b47baa9e7a14"
+    },
+    {
+      "path": "ADDITIONAL_RESOURCES.md",
+      "bytes": 36748,
+      "sha256": "c5a43479401f8edb1d4c31beb9f96854f0d8f1dd7fb5c3c3e33fed12d095e4e9"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 1064,
+      "sha256": "6c7e84e692017f584beac88d60bcb6128cc579951aefb0496720525e72c5731f"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 2041,
+      "sha256": "ec656b1b6fb5143703b9ab4226bf1dbcf65d6f5e07bc6f59f0f03df0ec84afd1"
+    },
+    {
+      "path": "CONTRIBUTORS.md",
+      "bytes": 810,
+      "sha256": "865f676543bca08f656c2b64b2bf37c3371a04a70fb6ea984ac2c01cc3106cd1"
+    },
+    {
+      "path": "CREDITS.md",
+      "bytes": 3356,
+      "sha256": "582f7a4c0be7d546cbe6e960ddfb918662fa5b577442eb2a22cb26ba13f953b3"
+    },
+    {
+      "path": "INSTALL.md",
+      "bytes": 3194,
+      "sha256": "c1ce848e4477c97341b4a0eaaadbfc6e0f63f2488765864a7a92f2d122f1bb07"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 34674,
+      "sha256": "fb981668c18a279e285fc4d83fba1e836cc84dd4daa73c9697d3cfd2d8aca6e0"
+    },
+    {
+      "path": "LICENSE-SCOPE.md",
+      "bytes": 1042,
+      "sha256": "274be9278835ba8d617cde12439d6d04a22726b88c4c2bca31fcf23bf846d964"
+    },
+    {
+      "path": "MGSV_TOOL_REFERENCE.md",
+      "bytes": 97892,
+      "sha256": "9cd45379d2934169fd910ae1caffe9656b0f5fce398f8bff131d43e6aa99b984"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9238,
+      "sha256": "584f34271f698b1622fa3277bcd42aebf210f598b68ca01a7df331adc352675b"
+    },
+    {
+      "path": "ROADMAP.md",
+      "bytes": 880,
+      "sha256": "781516f162cd8dea87c594df80c5ae829f0c4001db9d59c6adde34f3f65b0baa"
+    },
+    {
+      "path": "TOOL_CATALOG.md",
+      "bytes": 41327,
+      "sha256": "e69f1d3c5286f87ce5d55919a8affc38f6587a374510a73066421a24ec5c4643"
+    },
+    {
+      "path": "TOOL_COVERAGE.md",
+      "bytes": 11266,
+      "sha256": "38a7ad4a09951c2d82150326072c240070a20d7117b1b1167d366f2d5054040d"
+    },
+    {
+      "path": "VERSION",
+      "bytes": 7,
+      "sha256": "653d69a4116e95011cd5a565181a4967e2e300deb54e793a1e35066f8e3a4b28"
+    },
+    {
+      "path": "additional-resources.json",
+      "bytes": 24459,
+      "sha256": "63f1d46a76f3c2cda2e90b7876c931ee5a7c54ef4d0e230713b14dc13748ecc3"
+    },
+    {
+      "path": "config.example.json",
+      "bytes": 162,
+      "sha256": "9311a3cd65d49e93eeb2bedb225491af6e30e19c7e82b6826d9e56be8d378ddf"
+    },
+    {
+      "path": "docs/SAFETY.md",
+      "bytes": 1907,
+      "sha256": "3e1be88075e9a7f3d45dd50cea5ef0fd0e40a40a099ad06ca5005d6df2e33e86"
+    },
+    {
+      "path": "docs/TOOLS.md",
+      "bytes": 4131,
+      "sha256": "94d8c6776f63acf209d9fb3be52f80a6b7692f9552ea0eddbafdf34551ce5e1e"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 1370,
+      "sha256": "3c59f91523c3cf04a7290872be9fe2cecf4aba1aae3cab71dd86dbc4dc406a3d"
+    },
+    {
+      "path": "mcp.client.example.json",
+      "bytes": 207,
+      "sha256": "3475a772dd7f5454c34c5e2384a3aa0a0fa03dca46b82b17fc007b3e9f4df2b1"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 516,
+      "sha256": "c0b0a685992026331795c209c8ffbb73d89fa4732ed2a2f07f4eedcd6fb3a172"
+    },
+    {
+      "path": "requirements.lock",
+      "bytes": 674,
+      "sha256": "06de59aca59a978bd4b0216f23328cb139933706c208ec86e03e359369a2f55d"
+    },
+    {
+      "path": "scripts/export_catalog.py",
+      "bytes": 4748,
+      "sha256": "61b80874abebbd7b155f658d461d3ee61d16521e6cec642493e97bd71347015e"
+    },
+    {
+      "path": "scripts/install_ninja_ripper.py",
+      "bytes": 6348,
+      "sha256": "f26b423e42d221d71f24b97ece6141b849f7126d8aa56dd4b9b2a102e7aeae86"
+    },
+    {
+      "path": "scripts/install_tools.py",
+      "bytes": 2759,
+      "sha256": "7e1885948a2d0f0adbac8e8b4142f91b9c0f5f0c7d71454635131ff2f8ed7053"
+    },
+    {
+      "path": "scripts/verify_live.py",
+      "bytes": 5663,
+      "sha256": "f05bbb4c2293befb2043dc1bb59ab46893baa7281c67602ee55c241a35a00798"
+    },
+    {
+      "path": "scripts/verify_ninja_ripper.py",
+      "bytes": 3979,
+      "sha256": "fceb43d1f0bb2adf34aa54a004363324165e8cdf29e385247b14f42213c0f794"
+    },
+    {
+      "path": "scripts/verify_sources.py",
+      "bytes": 4401,
+      "sha256": "76214b86775fc20df19779650665dca7bd8ba14830cb5a1157d80033df8e48b4"
+    },
+    {
+      "path": "scripts/verify_tool_coverage.py",
+      "bytes": 5935,
+      "sha256": "b9c6229a4ab46528451b629e08b03fbc45c6dda1545cb1ec58604fe22e57c491"
+    },
+    {
+      "path": "server.py",
+      "bytes": 261,
+      "sha256": "990177c092d72a33294fb3d6867c4d43cd0d6e851ccbffb18c50065250eb65a9"
+    },
+    {
+      "path": "setup.ps1",
+      "bytes": 1607,
+      "sha256": "9d540b34a8fba36837cfda5e1c1a27dbbf34984000ee22b8d21cce80e80cec83"
+    },
+    {
+      "path": "src/mgsv_mcp/__init__.py",
+      "bytes": 74,
+      "sha256": "40f1898993ddbb8df2eb4789839a66e77e6f9c6836424bc2a57ce78e4c95f527"
+    },
+    {
+      "path": "src/mgsv_mcp/catalog.py",
+      "bytes": 14232,
+      "sha256": "94162fb04786a75b2bfd2f8fa9398688f25108b2e3160906f8e1483aa4a9c750"
+    },
+    {
+      "path": "src/mgsv_mcp/config.py",
+      "bytes": 2661,
+      "sha256": "fe05f813291405a5690f1844e454e479f0f5b78ec0a313298c1f7c077b181301"
+    },
+    {
+      "path": "src/mgsv_mcp/knowledge.py",
+      "bytes": 16312,
+      "sha256": "62bfecc40cfb393390106863a68453212e65cefd2df47ee73afa5ac7ceec7c86"
+    },
+    {
+      "path": "src/mgsv_mcp/remote.py",
+      "bytes": 3043,
+      "sha256": "20f03be2e4ec703033d77e8be151447f75da44b23551ba38cbf74507a9f0fe1b"
+    },
+    {
+      "path": "src/mgsv_mcp/server.py",
+      "bytes": 12544,
+      "sha256": "44bc83a3b3d26af86038abf2cf4253e5ae11416e13bb58465b3658bd3aaa731d"
+    },
+    {
+      "path": "src/mgsv_mcp/supplements.py",
+      "bytes": 13828,
+      "sha256": "d8e32bd3e775fce2d6b36e2f5b8039f82beeed0df2fd0f2588e11ed610d1cd30"
+    },
+    {
+      "path": "src/mgsv_mcp/workbench.py",
+      "bytes": 14623,
+      "sha256": "48efcb630da154d493c0dc49f4254bcc7a49eb43a9243a58f0d2738aaabf2361"
+    },
+    {
+      "path": "src/mgsv_mcp/workflows.py",
+      "bytes": 5167,
+      "sha256": "4df17f695c80e812f9538a063afcd870f5bf713875406440c33af20ba5717587"
+    },
+    {
+      "path": "tests/test_knowledge.py",
+      "bytes": 3147,
+      "sha256": "00fbefc945c96b38c9690b386db9081d4dd21d83ef53c34cce40b815ec391ec8"
+    },
+    {
+      "path": "tests/test_public_metadata.py",
+      "bytes": 924,
+      "sha256": "c1a8b40b0dbeeeb36e954f05d1cd5b9ca96fa1b8a35869ebfae127e2f61622dd"
+    },
+    {
+      "path": "tests/test_supplements.py",
+      "bytes": 6198,
+      "sha256": "2704e1d631558b5e9715fc8af642bf77a42f65bb1b25465cfba1655f3ec2cca8"
+    },
+    {
+      "path": "tests/test_tool_coverage.py",
+      "bytes": 6614,
+      "sha256": "1c40bb3981cc359122ada2d5440b5d37c5dfdce2c93cea6c18175822e355a8d1"
+    },
+    {
+      "path": "tests/test_workbench.py",
+      "bytes": 4107,
+      "sha256": "50c33f58e52e5d07a833829ed0581599ccf3077759f1505ffd120e1d8c81ffb8"
+    },
+    {
+      "path": "tool-profiles.json",
+      "bytes": 9064,
+      "sha256": "7c3124e1f2b74e6c48c992ce42cdb00f28db84c4a6d86dd8395d90f11e01a6a8"
+    },
+    {
+      "path": "tool-releases.json",
+      "bytes": 5919,
+      "sha256": "24d7c279da85379f580d55f5152c73d76c9ea6ddd1d2ca9006f08b50383a0946"
+    }
+  ]
+}

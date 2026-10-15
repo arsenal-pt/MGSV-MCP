@@ -1,0 +1,534 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "repo:unknown321/mgsv_emulator",
+      "kind": "repository",
+      "name": "MGSV emulator (historical)",
+      "repository": "unknown321/mgsv_emulator",
+      "url": "https://github.com/unknown321/mgsv_emulator",
+      "origin": "user",
+      "tags": [
+        "Server Emulation",
+        "Protocol Research"
+      ],
+      "summary": "Historical Python client/server emulator and protocol research. The README describes the project as unfinished and abandoned and directs readers to unknown321/fuse. Consult current alternatives before using its setup instructions.",
+      "related": [
+        "https://github.com/unknown321/fuse",
+        "https://github.com/alicealys/tpp-server-emulator"
+      ]
+    },
+    {
+      "id": "repo:alicealys/tpp-server-emulator",
+      "kind": "repository",
+      "name": "TPP server emulator",
+      "repository": "alicealys/tpp-server-emulator",
+      "url": "https://github.com/alicealys/tpp-server-emulator",
+      "origin": "user",
+      "tags": [
+        "Server Emulation",
+        "Lua",
+        "Protocol Research"
+      ],
+      "summary": "Reimplementation of the TPP backend server. Read usage, Lua command scripting, and the command implementation progress table together; documented coverage is not proof of complete game compatibility.",
+      "documents": [
+        "docs/usage.md",
+        "docs/scripting.md",
+        "docs/progress.md"
+      ]
+    },
+    {
+      "id": "repo:mxmstr/nucleusgamefixes",
+      "kind": "repository",
+      "name": "Nucleus Game Fixes: MGSV research",
+      "repository": "mxmstr/NucleusGameFixes",
+      "url": "https://github.com/mxmstr/NucleusGameFixes",
+      "origin": "user",
+      "tags": [
+        "Server Emulation",
+        "Protocol Research",
+        "Native Code"
+      ],
+      "summary": "A wider Nucleus Co-op fixes repository containing MGSV-specific experiments. Start with MGSVOPython (command handlers and protocol code) and MGSVOfflineTest (native test project). The repository does not provide a root README. These sources alone do not establish working MGSV cooperative multiplayer.",
+      "entry_points": [
+        "MGSVOPython",
+        "MGSVOfflineTest"
+      ],
+      "related": [
+        "https://github.com/mxmstr/NucleusGameFixes/tree/master/MGSVOPython",
+        "https://github.com/mxmstr/NucleusGameFixes/tree/master/MGSVOfflineTest"
+      ]
+    },
+    {
+      "id": "topic:mgsv",
+      "kind": "github-topic",
+      "name": "MGSV GitHub topic",
+      "topic": "mgsv",
+      "url": "https://github.com/topics/mgsv",
+      "origin": "user",
+      "tags": [
+        "Discovery"
+      ],
+      "summary": "Discovery index of public repositories tagged mgsv. Topic membership is supplied by repository maintainers and is not a compatibility, quality, or completeness endorsement. Repository descriptions are searchable; source code can be read on demand."
+    },
+    {
+      "id": "repo:joey35233/foxkit-3",
+      "kind": "repository",
+      "name": "FoxKit 3",
+      "repository": "Joey35233/FoxKit-3",
+      "url": "https://github.com/Joey35233/FoxKit-3",
+      "origin": "user",
+      "tags": [
+        "Fox Engine",
+        "Unity",
+        "Editors"
+      ],
+      "summary": "FoxKit 3 Unity project. Its README is minimal; use the checked-in ProjectVersion file for the required editor version and repository_source to inspect implementation details. Keep this project distinct from the older youarebritish/FoxKit repository.",
+      "documents": [
+        "FoxKit/ProjectSettings/ProjectVersion.txt"
+      ]
+    },
+    {
+      "id": "profile:joey35233",
+      "kind": "github-profile",
+      "name": "Joey35233 MGSV projects",
+      "owner": "Joey35233",
+      "url": "https://github.com/Joey35233",
+      "origin": "user",
+      "tags": [
+        "Discovery",
+        "Fox Engine"
+      ],
+      "summary": "Public project discovery for FoxKit, FoxLib, model/animation editors and Fox Engine format tools. Forks retain separate identities so their code and compatibility can be compared.",
+      "include_pattern": "fox|mgsv|metal gear|mtar|trap|twpf|geom|sqar|makebite|mspm|obr"
+    },
+    {
+      "id": "repo:youarebritish/foxkit",
+      "kind": "repository",
+      "name": "FoxKit (youarebritish)",
+      "repository": "youarebritish/FoxKit",
+      "url": "https://github.com/youarebritish/FoxKit",
+      "origin": "user",
+      "tags": [
+        "Fox Engine",
+        "Unity",
+        "Editors",
+        "Routes"
+      ],
+      "summary": "General-purpose Fox Engine data editor. The README documents Route Builder for importing, exporting, editing and creating AI route (.frt) files. Check the ProjectVersion file before opening the Unity project.",
+      "documents": [
+        "FoxKit/ProjectSettings/ProjectVersion.txt"
+      ]
+    },
+    {
+      "id": "profile:youarebritish",
+      "kind": "github-profile",
+      "name": "youarebritish MGSV projects",
+      "owner": "youarebritish",
+      "url": "https://github.com/youarebritish",
+      "origin": "user",
+      "tags": [
+        "Discovery",
+        "Fox Engine"
+      ],
+      "summary": "Public project discovery for FoxKit, FoxLib and examples, terrain/weather/lighting/VFX tools, and MGSV hash dictionaries.",
+      "include_pattern": "fox|mgsv|metal gear|htre|twpf|lba|vfx|luminaire"
+    },
+    {
+      "id": "repo:morbidslinky/soc",
+      "kind": "repository",
+      "name": "SideOp Companion (SOC)",
+      "repository": "morbidslinky/SOC",
+      "url": "https://github.com/morbidslinky/SOC",
+      "origin": "user",
+      "tags": [
+        "Missions",
+        "Sideops",
+        "Editors"
+      ],
+      "summary": "SideOp Companion is a .NET 8 UI tool for authoring custom sideops. The author moved usage guidance to the repository wiki. Infinite Heaven is required to play its custom sideops and use the QuickMenu preset.",
+      "related": [
+        "https://github.com/morbidslinky/SOC/wiki"
+      ]
+    },
+    {
+      "id": "wiki:morbidslinky/soc",
+      "kind": "github-wiki",
+      "name": "SideOp Companion guides",
+      "repository": "morbidslinky/SOC",
+      "url": "https://github.com/morbidslinky/SOC/wiki",
+      "origin": "linked-documentation",
+      "tags": [
+        "Missions",
+        "Sideops",
+        "Guides"
+      ],
+      "summary": "SOC author's setup, details, scripting, building/testing, QuickMenu, patrol route and notification guides, indexed from the public GitHub wiki with its own commit provenance."
+    },
+    {
+      "id": "repo:unknown321/fuse",
+      "kind": "repository",
+      "name": "fuse",
+      "repository": "unknown321/fuse",
+      "url": "https://github.com/unknown321/fuse",
+      "origin": "linked-successor",
+      "tags": [
+        "Server Emulation"
+      ],
+      "summary": "Successor reference explicitly linked at the top of the archived unknown321/mgsv_emulator README. Consult this repository's own documentation for current scope and requirements."
+    },
+    {
+      "id": "repo:morbidslinky/filemonolith",
+      "kind": "repository",
+      "name": "File Monolith toolset",
+      "repository": "morbidslinky/FileMonolith",
+      "url": "https://github.com/morbidslinky/FileMonolith",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Archives",
+        "Textures",
+        "Editors"
+      ],
+      "summary": "Publisher's .NET 8 WinForms suite: Archive Unpacker, Mass Texture Converter, File Proliferator, Filename Updater, Archive Transferrer, Texture Aggregator and Regex File Copier. Refreshable README documents all seven components. Archive Transferrer affects game files and needs a separate, explicit game-workflow decision; inclusion here does not execute it.",
+      "related": [
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/739"
+      ],
+      "documents": [],
+      "review_issues": true
+    },
+    {
+      "id": "repo:bobdoleowndu/fmdl-studio-v2",
+      "kind": "repository",
+      "name": "FMDL Studio V2 publisher source",
+      "repository": "BobDoleOwndU/FMDL-Studio-v2",
+      "url": "https://github.com/BobDoleOwndU/FMDL-Studio-v2",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Models",
+        "Unity",
+        "Blender"
+      ],
+      "summary": "Fox Engine model importer/exporter hosted in Unity, with a documented Blender interchange workflow. It is not a standalone Blender add-on. Read the author's setup wiki and current Collada compatibility issue before selecting Blender/Unity versions.",
+      "related": [
+        "https://mgsvmoddingwiki.github.io/FMDL_Studio_V2/",
+        "https://mgsvmoddingwiki.github.io/Using_FMDL_Studio_with_Blender/"
+      ],
+      "documents": [],
+      "review_issues": true
+    },
+    {
+      "id": "repo:bobdoleowndu/fvtwool",
+      "kind": "repository",
+      "name": "FvTwool publisher source",
+      "repository": "BobDoleOwndU/FvTwool",
+      "url": "https://github.com/BobDoleOwndU/FvTwool",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Models",
+        "FV2",
+        "Editors"
+      ],
+      "summary": "GUI editor for MGSV .fv2 form variations. Publisher notes cover string/hash fields, external file paths with extensions, and hexadecimal variable types. The existing downloaded GUI executable is tracked separately from runnable converter adapters.",
+      "related": [],
+      "documents": [],
+      "review_issues": true
+    },
+    {
+      "id": "repo:tinmantex/snakebite",
+      "kind": "repository",
+      "name": "SnakeBite and MakeBite source",
+      "repository": "TinManTex/SnakeBite",
+      "url": "https://github.com/TinManTex/SnakeBite",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Packaging",
+        "Mod Management"
+      ],
+      "summary": "Established mod manager and included MakeBite package builder. README documents .mgsv packages and command-line entry points, but this MCP does not install/uninstall mods in a game directory. Open issue reports include game-build and locale compatibility concerns; match releases against the user's exact executable before installation.",
+      "related": [
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/106",
+        "https://github.com/topher-au/SnakeBite/wiki/Using-MakeBite"
+      ],
+      "documents": [
+        "Developers.txt"
+      ],
+      "review_issues": true
+    },
+    {
+      "id": "repo:tinmantex/infiniteheaven",
+      "kind": "repository",
+      "name": "Infinite Heaven source",
+      "repository": "TinManTex/InfiniteHeaven",
+      "url": "https://github.com/TinManTex/InfiniteHeaven",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Lua",
+        "Missions",
+        "Frameworks"
+      ],
+      "summary": "Gameplay and mod-development framework documented by the MGSV wiki. Useful for custom missions, Lua loading and development workflows. Documentation describes particular game/framework versions; current compatibility requires matching the user's installation.",
+      "related": [
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/45"
+      ],
+      "documents": [],
+      "review_issues": true
+    },
+    {
+      "id": "repo:tinmantex/ihhook",
+      "kind": "repository",
+      "name": "IHHook source and developer notes",
+      "repository": "TinManTex/IHHook",
+      "url": "https://github.com/TinManTex/IHHook",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Lua",
+        "Native Code",
+        "Frameworks"
+      ],
+      "summary": "Infinite Heaven companion native hook with Lua extensions, logging, named pipes and Ghidra development scripts. Hook addresses are executable-version-dependent. Source inspection is available; no DLL is injected or deployed by this MCP integration.",
+      "related": [
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/1226"
+      ],
+      "documents": [
+        "Developers.txt"
+      ],
+      "review_issues": true
+    },
+    {
+      "id": "repo:zipfslaw/zeta",
+      "kind": "repository",
+      "name": "Zeta framework source",
+      "repository": "ZipfsLaw/Zeta",
+      "url": "https://github.com/ZipfsLaw/Zeta",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Lua",
+        "Frameworks",
+        "Weapons",
+        "Missions"
+      ],
+      "summary": "Infinite Heaven add-on that expands MGSV modding capabilities. Useful reference for custom equipment/content and Lua extension development; follow its dependency and build requirements.",
+      "related": [
+        "https://www.zetamgsv.com",
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/1309"
+      ],
+      "documents": [],
+      "review_issues": true
+    },
+    {
+      "id": "repo:mctrollin/fox_engine_mtar_tools_blender",
+      "kind": "repository",
+      "name": "Fox Engine MTAR Tools for Blender",
+      "repository": "mctrollin/fox_engine_mtar_tools_blender",
+      "url": "https://github.com/mctrollin/fox_engine_mtar_tools_blender",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Animation",
+        "Blender",
+        "MTAR",
+        "GANI"
+      ],
+      "summary": "Blender add-on for importing/exporting MGSV GZ/TPP MTAR animation data, mapping tracks to custom rigs, and handling GANI1/GANI2. Author states actually supported Blender versions are 4.4+, documents unsupported track types and warns repeated round trips can degrade data. MtarTool is the archive converter; this add-on is the animation-authoring host integration.",
+      "related": [],
+      "documents": [],
+      "review_issues": true
+    },
+    {
+      "id": "repo:chocmake/mgsv-normal-map-channels-converter",
+      "kind": "repository",
+      "name": "MGSV Normal Map Channels Converter",
+      "repository": "chocmake/MGSV-Normal-Map-Channels-Converter",
+      "url": "https://github.com/chocmake/MGSV-Normal-Map-Channels-Converter",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Textures",
+        "Normal Maps"
+      ],
+      "summary": "Publisher script for converting DDS channel layouts between Fox Engine and regular normal maps. Requires ImageMagick 7+. This complements FTEX container conversion; no arbitrary batch script execution is exposed through MCP.",
+      "related": [
+        "https://imagemagick.org/script/download.php"
+      ],
+      "documents": [],
+      "review_issues": true
+    },
+    {
+      "id": "repo:tinmantex/mgsv-lookup-strings",
+      "kind": "repository",
+      "name": "MGSV lookup dictionaries",
+      "repository": "TinManTex/mgsv-lookup-strings",
+      "url": "https://github.com/TinManTex/mgsv-lookup-strings",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Archives",
+        "Hashes",
+        "Tool Development"
+      ],
+      "summary": "Validated lookup strings used to recover paths and names from hashes in MGSV tools. The wiki recommends this repository for updated QAR dictionaries. Updating an installed converter's dictionaries remains an explicit compatibility-controlled operation.",
+      "related": [
+        "https://mgsvmoddingwiki.github.io/Hash_Wrangling/"
+      ],
+      "documents": [],
+      "review_issues": true
+    },
+    {
+      "id": "repo:bnnm/wwiser",
+      "kind": "repository",
+      "name": "wwiser Wwise bank inspector",
+      "repository": "bnnm/wwiser",
+      "url": "https://github.com/bnnm/wwiser",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Audio",
+        "Wwise",
+        "BNK"
+      ],
+      "summary": "Wwise .bnk parser and inspector with CLI/GUI support and TXTP generation. Author explicitly states it cannot modify banks. Use for bank/event research alongside the existing audio converters; source/documentation is indexed, but no new executable adapter is claimed.",
+      "related": [
+        "https://github.com/vgmstream/vgmstream"
+      ],
+      "documents": [
+        "doc/WWISER.md"
+      ],
+      "review_issues": true
+    },
+    {
+      "id": "wiki:bobdoleowndu/fmdl-studio-v2",
+      "kind": "github-wiki",
+      "name": "FMDL Studio V2 author guides",
+      "repository": "BobDoleOwndU/FMDL-Studio-v2",
+      "url": "https://github.com/BobDoleOwndU/FMDL-Studio-v2/wiki",
+      "origin": "linked-documentation",
+      "tags": [
+        "Models",
+        "Unity",
+        "Blender",
+        "Guides"
+      ],
+      "summary": "Author-maintained setup and model editing/export guides. These are indexed at the wiki's own commit, separately from the Unity source repository."
+    }
+  ],
+  "web_references": [
+    {
+      "id": "ninja-ripper",
+      "kind": "web-reference",
+      "name": "Ninja Ripper 1.7.1 (free legacy)",
+      "url": "https://cgig.ru/ninjaripper/",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Models",
+        "Textures",
+        "Capture"
+      ],
+      "summary": "Ninja Ripper 1.7.1 is the free public legacy version selected for this MCP. The original author support thread links the CG in Games release page; the current publisher FAQ also identifies 1.7.1 as the public alternative to paid 2.x. The author-linked package contains x64/x86 Windows GUIs, Blender/Noesis/3ds Max and GIMS importer packages, ripdump.exe and text help. Capture writes legacy .rip meshes and .dds textures; 2.x .nr import instructions and modern graphics API claims must not be applied to this version. Its help describes Direct3D 11/9/8/7/6, target executable and output-directory settings, and injection/wrapper modes. Some vertex blend attributes may be available, but usable rig, animation and game-format reconstruction are not guaranteed. The original Blender importer is legacy. This local package is installed and inventoried, with three bundled text documents cached under the archive SHA-256. GUI capture and bundled helper execution are not automated or verified in MGSV. No game-side wrapper or registry setting was changed.",
+      "related": [
+        "https://www.ninjaripper.com/faq",
+        "https://www.ninjaripper.com/download",
+        "https://www.cgig.ru/forum/viewtopic.php?f=34&t=2580",
+        "https://cgig.ru/2012/10/ho-to-use-ninja-ripper/",
+        "https://www.mediafire.com/file/z1w91t5keytvq3r/ninjaripper1.7.1_with_new_script.7z"
+      ],
+      "reviewed_at": "2026-10-10",
+      "coverage_note": "Reviewed publisher links and version-specific notes, plus bundled text documentation from the pinned free 1.7.1 archive. Package source_revision is an archive SHA-256, not a Git commit. Automatic refresh does not scrape or upgrade this package."
+    },
+    {
+      "id": "mgsv-batch-unpacker",
+      "kind": "web-reference",
+      "name": "MGSV Batch Unpacker",
+      "url": "https://www.nexusmods.com/metalgearsolidvtpp/mods/358",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Archives",
+        "Utilities"
+      ],
+      "summary": "Nexus publisher describes a batch-file wrapper around Atvaark's unpacking tools, programmed for TPP, and estimates 80 GB for a full unpack. The MCP already provides the underlying GzsTool/FoxTool/FtexTool and translation adapters. This entry records the original utility; its batch file is not downloaded or auto-executed.",
+      "related": [],
+      "reviewed_at": "2026-10-10",
+      "coverage_note": "Reviewed source description and curated integration notes; source page is linked, not mirrored. Refresh preserves this review date and does not scrape the site."
+    },
+    {
+      "id": "tutorial:mgsv-lua-nexus139",
+      "kind": "web-reference",
+      "name": "MGSV Lua Modding Tutorial",
+      "url": "https://www.nexusmods.com/metalgearsolidvtpp/mods/139",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Lua",
+        "Guides"
+      ],
+      "summary": "Historical community tutorial for modifying The Phantom Pain's Lua files. It is documentation, not an executable tool. Check current wiki, Infinite Heaven and IHHook guidance before applying older direct-archive editing steps.",
+      "related": [
+        "https://mgsvmoddingwiki.github.io/Lua/"
+      ],
+      "reviewed_at": "2026-10-10",
+      "coverage_note": "Reviewed source description and curated integration notes; source page is linked, not mirrored. Refresh preserves this review date and does not scrape the site."
+    },
+    {
+      "id": "steam:547190360",
+      "kind": "web-reference",
+      "name": "MGSV TPP Model File Locations (Steam guide)",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=547190360",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Models",
+        "File Locations",
+        "Guides"
+      ],
+      "summary": "Detective Sadist's incomplete model-location guide, last updated in 2016 according to the page. It groups NPC models by chunk/archive and acknowledges uncertain and crashing cases. Useful historical reference, not a current compatibility guarantee or downloadable converter.",
+      "related": [],
+      "reviewed_at": "2026-10-10",
+      "coverage_note": "Reviewed source description and curated integration notes; source page is linked, not mirrored. Refresh preserves this review date and does not scrape the site."
+    },
+    {
+      "id": "steam:883495538",
+      "kind": "web-reference",
+      "name": "MGSV model collection for Source Filmmaker",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=883495538",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Models",
+        "Source Filmmaker",
+        "Reference"
+      ],
+      "summary": "A Source Filmmaker Workshop collection of seven MGSV-derived model/prop items. This is an SFM asset collection, not an MGSV modding utility or installer. No Workshop assets are downloaded or redistributed by this integration.",
+      "related": [],
+      "reviewed_at": "2026-10-10",
+      "coverage_note": "Reviewed source description and curated integration notes; source page is linked, not mirrored. Refresh preserves this review date and does not scrape the site."
+    },
+    {
+      "id": "nexus:modders-resources",
+      "kind": "web-reference",
+      "name": "Nexus Modders Resources and Tutorials discovery",
+      "url": "https://www.nexusmods.com/games/metalgearsolidvtpp/mods?categoryName=Modders+Resources+and+Tutorials",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Discovery",
+        "Guides"
+      ],
+      "summary": "User-supplied category discovery links for pages one and two. The research fetch did not expose a complete usable listing, and page two was inaccessible. Individual linked mod pages were reviewed separately. This reference does not assert that every item in the category has been indexed, vetted or installed.",
+      "related": [
+        "https://www.nexusmods.com/games/metalgearsolidvtpp/mods?categoryName=Modders+Resources+and+Tutorials&page=2"
+      ],
+      "reviewed_at": "2026-10-10",
+      "coverage_note": "Discovery links only; category contents are not mirrored. No bulk Nexus crawl. Review date records the access attempt, not verification of the listing's contents."
+    },
+    {
+      "id": "mgsv-qar-tool",
+      "kind": "web-reference",
+      "name": "MGSV QAR Tool (Sergeanur, legacy)",
+      "url": "https://github.com/Atvaark/TPP.FileFormats",
+      "origin": "tool-audit-2026-10-10",
+      "tags": [
+        "Archives",
+        "QAR",
+        "Legacy Tools"
+      ],
+      "summary": "Historical MGSV QAR Tool v1.3 by Sergeanur, identified in Atvaark's format-research references. The original QAR Tool binary is not installed. For executable MCP archive workflows use gzstool for TPP .dat and gzstool-gz (v0.2) for GZ .g0s. They are distinct tools, not aliases for the original binary.",
+      "related": [
+        "https://mgsvmoddingwiki.github.io/GzsTool/",
+        "https://mgsvmoddingwiki.github.io/File_Formats/"
+      ],
+      "reviewed_at": "2026-10-10",
+      "coverage_note": "Reviewed source description and curated integration notes; source page is linked, not mirrored. Refresh preserves this review date and does not scrape the site."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "repo": "Atvaark/GzsTool",
+    "version": "v0.5.3",
+    "prerelease": false,
+    "asset": "GzsTool.v0.5.3.zip",
+    "url": "https://github.com/Atvaark/GzsTool/releases/download/v0.5.3/GzsTool.v0.5.3.zip",
+    "sha256": "1b0cc29672450a4c4fc8d6d3bf750e13a81be838227d41c147344f380d075873"
+  },
+  {
+    "repo": "BobDoleOwndU/GzsTool",
+    "version": "0.5.3.1.1b",
+    "prerelease": false,
+    "asset": "GzsTool.v0.5.3.1b.zip",
+    "url": "https://github.com/BobDoleOwndU/GzsTool/releases/download/0.5.3.1.1b/GzsTool.v0.5.3.1b.zip",
+    "sha256": "d0520363ef9a8946a6f18359960e8f0176c5897719a83c17b206787973c29134"
+  },
+  {
+    "repo": "Atvaark/FoxTool",
+    "version": "v0.2.6",
+    "prerelease": false,
+    "asset": "FoxTool.v0.2.6.zip",
+    "url": "https://github.com/Atvaark/FoxTool/releases/download/v0.2.6/FoxTool.v0.2.6.zip",
+    "sha256": "dc983b43b79bc21b833508ffeaf8f913995d9d834ff460bbcfd7479797c5fef5"
+  },
+  {
+    "repo": "Atvaark/FtexTool",
+    "version": "v0.3.3",
+    "prerelease": false,
+    "asset": "FtexTool.v0.3.3.zip",
+    "url": "https://github.com/Atvaark/FtexTool/releases/download/v0.3.3/FtexTool.v0.3.3.zip",
+    "sha256": "d1753dcae6ca3a53a9c3f5fe3df50bb195f47b1f1d7c8c600b97ef11114217c3"
+  },
+  {
+    "repo": "Atvaark/FoxEngine.TranslationTool",
+    "version": "v0.2.5",
+    "prerelease": false,
+    "asset": "FoxEngine.TranslationTool.v0.2.5.zip",
+    "url": "https://github.com/Atvaark/FoxEngine.TranslationTool/releases/download/v0.2.5/FoxEngine.TranslationTool.v0.2.5.zip",
+    "sha256": "c055bdb8e0adc78eb35f8dfab9324aeb9d44463a75e1b4fe9ae716edf041a2dc"
+  },
+  {
+    "repo": "BobDoleOwndU/FsmTool",
+    "version": "v0.4",
+    "prerelease": false,
+    "asset": "FsmTool.v0.4.zip",
+    "url": "https://github.com/BobDoleOwndU/FsmTool/releases/download/v0.4/FsmTool.v0.4.zip",
+    "sha256": "7a8da9109380e806156e73a0efb46672191d5ea32fd8cab67870dcb296e85414"
+  },
+  {
+    "repo": "BobDoleOwndU/MtarTool",
+    "version": "0.2.7",
+    "prerelease": false,
+    "asset": "MtarTool.v0.2.7.zip",
+    "url": "https://github.com/BobDoleOwndU/MtarTool/releases/download/0.2.7/MtarTool.v0.2.7.zip",
+    "sha256": "20b5b0c0348f16fa8978d8d122a1a954cff0f85ccd35a185b203f79966485502"
+  },
+  {
+    "repo": "BobDoleOwndU/AutoPftxsTool",
+    "version": "v0.2",
+    "prerelease": true,
+    "asset": "AutoPftxsTool.v0.2.zip",
+    "url": "https://github.com/BobDoleOwndU/AutoPftxsTool/releases/download/v0.2/AutoPftxsTool.v0.2.zip",
+    "sha256": "a41eb1d7138d1dcb509ce325c3fb1d217fd38f87d3c502c0bca9cfbcf1fc6c9d"
+  },
+  {
+    "repo": "BobDoleOwndU/FcnpTool",
+    "version": "1.1",
+    "prerelease": false,
+    "asset": "FcnpTool.v1.1.zip",
+    "url": "https://github.com/BobDoleOwndU/FcnpTool/releases/download/1.1/FcnpTool.v1.1.zip",
+    "sha256": "a7fd623f09217bdb7dc037c416b8961afa2e427b6b22494a9b76fb03252d8b03"
+  },
+  {
+    "repo": "kapuragu/GrxArrayTool",
+    "version": "v0.2",
+    "prerelease": false,
+    "asset": "GrxArrayTool.v0.2.zip",
+    "url": "https://github.com/kapuragu/GrxArrayTool/releases/download/v0.2/GrxArrayTool.v0.2.zip",
+    "sha256": "93b57564563fcd96c8e30ddf94328f9d5e3b0d0b79988170a21cea8b36ab60b4"
+  },
+  {
+    "repo": "kapuragu/RdfTool",
+    "version": "v2",
+    "prerelease": false,
+    "asset": "RdfTool.v2.zip",
+    "url": "https://github.com/kapuragu/RdfTool/releases/download/v2/RdfTool.v2.zip",
+    "sha256": "0a8dfbf0991fe48dc21f3c23e802e79a5ee23bcf2984bae2dcc4945c372ee072"
+  },
+  {
+    "repo": "kapuragu/SpchTool",
+    "version": "v1.7",
+    "prerelease": false,
+    "asset": "SpchTool.v1.7.zip",
+    "url": "https://github.com/kapuragu/SpchTool/releases/download/v1.7/SpchTool.v1.7.zip",
+    "sha256": "8eacd4682960a50b59fc969344bd428ae325e025c7a55e9addce4ee6e4070ce8"
+  },
+  {
+    "repo": "kapuragu/StpTool",
+    "version": "v1.1",
+    "prerelease": false,
+    "asset": "StpTool.v1.1.zip",
+    "url": "https://github.com/kapuragu/StpTool/releases/download/v1.1/StpTool.v1.1.zip",
+    "sha256": "5bc36deee6af1725cebb4fc383ead018751fd2b179b8d2b76b73f88d943a6dc8"
+  },
+  {
+    "repo": "kapuragu/TcvpTool",
+    "version": "v0.6",
+    "prerelease": false,
+    "asset": "TcvpTool.v0.6.zip",
+    "url": "https://github.com/kapuragu/TcvpTool/releases/download/v0.6/TcvpTool.v0.6.zip",
+    "sha256": "afa899197b794ef0067fa16974f7484fd2810c41b2aa447c601617ae8a2b0590"
+  },
+  {
+    "repo": "kapuragu/TrapTool",
+    "version": "v1.2",
+    "prerelease": false,
+    "asset": "TrapTool.v1.2.zip",
+    "url": "https://github.com/kapuragu/TrapTool/releases/download/v1.2/TrapTool.v1.2.zip",
+    "sha256": "a8bf2576a825980abddc0f54cdbd065f4416e58598813ce623ebf4297c6d5171"
+  },
+  {
+    "repo": "youarebritish/LbaTool",
+    "version": "1.0",
+    "prerelease": false,
+    "asset": "LbaTool.zip",
+    "url": "https://github.com/youarebritish/LbaTool/releases/download/1.0/LbaTool.zip",
+    "sha256": "246ec0af627d8edf060bee7e7fd7de0aa0008dbf6d3fd22b6024b477fca8a246"
+  },
+  {
+    "repo": "youarebritish/VfxTool",
+    "version": "1.2",
+    "prerelease": false,
+    "asset": "VfxTool.zip",
+    "url": "https://github.com/youarebritish/VfxTool/releases/download/1.2/VfxTool.zip",
+    "sha256": "d9b8d6df5be7db7a69c13d5d537bf0e982f47201c5a5ad05553ceac4ab2cc93b"
+  },
+  {
+    "repo": "BobDoleOwndU/FvTwool",
+    "version": "1.5.1",
+    "prerelease": false,
+    "asset": "FvTwool.v1.5.1.zip",
+    "url": "https://github.com/BobDoleOwndU/FvTwool/releases/download/1.5.1/FvTwool.v1.5.1.zip",
+    "sha256": "b40becff9f0f735dca26075fa2f5961ea897ee14745b85cedcc9891b8640b8e9"
+  },
+  {
+    "repo": "Atvaark/GzsTool",
+    "version": "v0.2",
+    "url": "https://github.com/Atvaark/GzsTool/releases/download/v0.2/GzsTool.v0.2.zip",
+    "sha256": "0916b1bebb41527a0de33928303ed751df5b3582d5029e2296131521b15c37e5",
+    "prerelease": false
+  }
+]

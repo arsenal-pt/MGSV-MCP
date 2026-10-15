@@ -1,0 +1,27 @@
+WORKFLOWS = {
+    "ninja-ripper": {"pages":["resource:ninja-ripper","source:ninja-ripper/help_en.txt","source:ninja-ripper/whats_new.txt","FMDL Studio V2"],"steps":["Use get_modding_tool('ninja-ripper') to locate the installed free 1.7.1 x64/x86 GUIs and bundled importers.","Read the bundled legacy help and record the target executable, renderer and importer versions; this installation has not been tested against MGSV.","Choose a dedicated capture output folder in the workbench in the GUI. Capture/injection and wrapper deployment are manual, not MCP converter jobs.","Import legacy .rip meshes and .dds textures with a compatible importer; do not apply Ninja Ripper 2 .nr instructions.","Check scale, UVs, normals and any captured blend attributes. Complete skeletons and animation are not guaranteed; use the normal FMDL/MTAR authoring tools for game-ready assets."]},
+    "lua": {"pages":["Lua","Infinite Heaven","IHHook","Loading Lua files externally using IH","Messages","GameObject types"],"steps":["Record the game executable version and installed framework versions.","Locate the relevant Lua library/function and its documented message or callback.","Keep edits in a separate mod project; validate the Lua syntax with the appropriate host tooling.","Load through the framework's documented mechanism and verify its logs and behavior in game."]},
+    "textures": {"pages":["Unpacking and Organizing Game Files","GzsTool","FtexTool","Converting Between FTEX and DDS","Working With DDS Files","AutoPftxsTool"],"steps":["Unpack a copy of the relevant archive.","Gather FTEX and all FTEXS sidecars before DDS conversion.","Preserve pixel format, alpha, mipmaps and dimensions when editing.","Convert back, rebuild containing texture packs/archives, then package with MakeBite and verify visually."]},
+    "models": {"pages":["FMDL","FMDL Studio V2","Using FMDL Studio with Blender","FV2","FvTwool"],"steps":["Confirm the supported Unity/Blender versions in the tool documentation.","Inspect model materials, skeleton and texture references.","Edit/export with FMDL Studio or the documented plugin workflow.","Repack a copy, package, and verify the model and animations in game."]},
+    "maps": {"pages":["FoxKit","Create a Custom Map","Create a Custom Mission","SideOp Companion","FRT","NAV2","Entity Reference"],"steps":["Select FoxKit generation and compatible Unity version.","Identify location/mission IDs and required packs.","Author geometry, routes, entities and mission scripts.","Test loading, navmesh, objectives, restart behavior and logs."]},
+    "audio": {"pages":["Sound","Wwise","How To Find & Change Audio Files","Creating a Custom Sound Bank","How to add custom sounds","FsmTool"],"steps":["Identify the container, event, language and Wwise soundbank version.","Use the Wwise version documented for the target game.","Convert and rebuild the soundbank and containing packs.","Verify event playback, duration and language variants in game."]},
+    "localization": {"pages":["Lang","LangTool","SubpTool","FfntTool","How to create custom lang entries"],"steps":["Extract the language file and locate its keys using current dictionaries.","Convert to XML in a workbench job, retaining original encoding and format.","Edit values and font/subtitle companions as needed.","Rebuild, round-trip compare, package and test rendering in game."]},
+    "native-code": {"pages":["EXE","IHHook","V Framework","V Framework Lua API","Ghidra tips","Ghidra version tracking"],"steps":["Fingerprint the executable and match the framework/hook build.","Read primary source and version-specific evidence for each target symbol.","Implement changes in a local source project and review the diff.","Build with the upstream toolchain and validate in a separate game test setup."]},
+    "tool-development": {"pages":["File Formats","Files","Hash Wrangling","Links to Useful Github Repos","Unsolved problems"],"steps":["Find the exact format page, entity references and existing parser implementation.","Use repository_source to inspect code pinned to a commit.","Design a parser/converter with bounds checks and a reversible round-trip fixture.","Compare output with an established utility before testing in game."]},
+    "packaging": {"pages":["SnakeBite Mod Manager","File Monolith","Troubleshooting"],"steps":["Create the documented game-relative folder structure.","Review required dependencies and file conflicts.","Use MakeBite to create the installable MGSV package.","Test install/uninstall and inspect SnakeBite logs in a backed-up test environment."]},
+}
+
+
+def workflow(knowledge,name):
+    if name not in WORKFLOWS:
+        return {"available":list(WORKFLOWS)}
+    item=WORKFLOWS[name]
+    references=[]
+    for title in item["pages"]:
+        try:
+            doc=knowledge.resolve(title)
+            references.append({"id":doc["id"],"title":doc["title"],"url":doc["url"]})
+        except ValueError:
+            references.append({"title":title,"search_required":True})
+    return {"workflow":name,"steps":item["steps"],"references":references,
+            "note":"Navigation checklist, not a claim that a mod or every linked tool was tested in game."}

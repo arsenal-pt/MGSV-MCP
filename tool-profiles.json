@@ -1,0 +1,331 @@
+{
+  "file-monolith": {
+    "aliases": [
+      "File Monolith",
+      "FileMonolith"
+    ],
+    "repository": "morbidslinky/FileMonolith",
+    "recommended_for": [
+      "bulk archive organization",
+      "texture extraction",
+      "file management"
+    ],
+    "requirements": [
+      "Windows .NET 8 WinForms runtime"
+    ],
+    "capabilities": [
+      "Seven documented GUI suite components",
+      "Publisher source browsing and release discovery"
+    ],
+    "limitations": [
+      "No GUI automation adapter",
+      "Archive Transferrer has a reported path issue; verify the selected game directories"
+    ],
+    "related_tools": [
+      "archive-unpacker",
+      "mass-texture-converter",
+      "file-proliferator",
+      "filename-updater",
+      "archive-transferrer",
+      "texture-aggregator",
+      "regex-file-copier"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "fmdl-studio-v2": {
+    "aliases": [
+      "FMDL Studio V2",
+      "FMDL Studio"
+    ],
+    "repository": "BobDoleOwndU/FMDL-Studio-v2",
+    "recommended_for": [
+      "Fox Engine mesh and material authoring"
+    ],
+    "requirements": [
+      "Unity version specified by author's setup guide",
+      "Compatible Blender/Collada importer for interchange"
+    ],
+    "capabilities": [
+      "Unity model importer/exporter",
+      "Cached author wiki and source access"
+    ],
+    "limitations": [
+      "Not a standalone Blender plugin or executable MCP converter",
+      "Wiki and issue reports flag Collada support changes in newer Blender versions; check exact host versions"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "fvtwool": {
+    "aliases": [
+      "FvTwool",
+      "FV2 editor"
+    ],
+    "repository": "BobDoleOwndU/FvTwool",
+    "install_probe": {
+      "repository": "BobDoleOwndU/FvTwool",
+      "executable": "FvTwool.exe"
+    },
+    "capabilities": [
+      "Downloaded GUI editor for .fv2 form variations"
+    ],
+    "limitations": [
+      "GUI operation is not automated; installed presence is not an in-game compatibility test"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "gzstool": {
+    "aliases": [
+      "GzsTool",
+      "TPP archive converter"
+    ],
+    "capabilities": [
+      "Staged TPP QAR .dat, FPK, FPKD, PFTXS and SBP unpack/repack"
+    ],
+    "related_tools": [
+      "gzstool-gz",
+      "mgsv-qar-tool"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "gzstool-gz": {
+    "aliases": [
+      "Ground Zeroes archive tool",
+      "GzsTool v0.2",
+      "g0s converter"
+    ],
+    "capabilities": [
+      "Staged Ground Zeroes .g0s unpack/repack"
+    ],
+    "limitations": [
+      "Synthetic single-entry archive round trip tested, without the optional per-entry key header; no full game archive or in-game test"
+    ],
+    "related_tools": [
+      "gzstool"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "mgsv-qar-tool": {
+    "aliases": [
+      "MGSV QAR Tool",
+      "QAR Tool",
+      "Sergeanur QAR Tool"
+    ],
+    "capabilities": [
+      "Historical reference"
+    ],
+    "limitations": [
+      "Original binary not installed; use the explicitly named GzsTool adapters for automated work"
+    ],
+    "related_tools": [
+      "gzstool",
+      "gzstool-gz"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "mtartool": {
+    "aliases": [
+      "MtarTool"
+    ],
+    "capabilities": [
+      "Staged MTAR unpack/repack"
+    ],
+    "limitations": [
+      "Archive conversion is distinct from animation/rig authoring"
+    ],
+    "related_tools": [
+      "repo:mctrollin/fox_engine_mtar_tools_blender"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "snakebite-mod-manager": {
+    "aliases": [
+      "SnakeBite",
+      "SnakeBite Mod Manager"
+    ],
+    "repository": "TinManTex/SnakeBite",
+    "recommended_for": [
+      "MGSV package installation and management"
+    ],
+    "requirements": [
+      "Game path and executable compatibility must be established"
+    ],
+    "limitations": [
+      "No automated game-file deployment in this MCP"
+    ],
+    "related_tools": [
+      "makebite",
+      "repo:tinmantex/snakebite"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "makebite": {
+    "aliases": [
+      "MakeBite"
+    ],
+    "repository": "TinManTex/SnakeBite",
+    "recommended_for": [
+      "Building .mgsv packages"
+    ],
+    "capabilities": [
+      "Documented GUI and upstream CLI packaging entry point"
+    ],
+    "limitations": [
+      "No verified executable MCP packaging adapter"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "infinite-heaven": {
+    "aliases": [
+      "Infinite Heaven",
+      "IH"
+    ],
+    "repository": "TinManTex/InfiniteHeaven",
+    "recommended_for": [
+      "custom missions",
+      "Lua development"
+    ],
+    "limitations": [
+      "Framework is documented, not installed into a game"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "ihhook": {
+    "aliases": [
+      "IHHook"
+    ],
+    "repository": "TinManTex/IHHook",
+    "recommended_for": [
+      "native hooks",
+      "Lua extensions",
+      "development logging"
+    ],
+    "limitations": [
+      "Executable-version-dependent; no DLL deployment or injection"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "zeta": {
+    "aliases": [
+      "Zeta"
+    ],
+    "repository": "ZipfsLaw/Zeta",
+    "recommended_for": [
+      "custom equipment and content"
+    ],
+    "requirements": [
+      "Compatible Infinite Heaven installation"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "ninja-ripper": {
+    "aliases": [
+      "Ninja Ripper",
+      "NinjaRipper",
+      "Ninja Ripper 1.7.1",
+      "NinjaRipper 1.7.1",
+      "ninja-ripper-1.7.1"
+    ],
+    "version": "1.7.1",
+    "distribution": "free legacy public version",
+    "install_probe": {
+      "package_id": "ninja-ripper-1.7.1",
+      "version": "1.7.1",
+      "executable": "NinjaRipper.exe"
+    },
+    "requirements": [
+      "Windows; select the x64/x86 GUI appropriate for the target",
+      "Compatible legacy .rip importer in Blender, Noesis or 3ds Max"
+    ],
+    "capabilities": [
+      "Free 1.7.1 portable x64/x86 GUIs and bundled importers installed locally",
+      "Legacy .rip mesh, .dds texture and shader capture workflow documented",
+      "Bundled English help, changelog and Max importer notes searchable with archive SHA-256 provenance"
+    ],
+    "limitations": [
+      "GUI capture and injection are not automated or tested against MGSV",
+      "Legacy .rip output is distinct from Ninja Ripper 2 .nr; do not apply 2.x capability or importer claims",
+      "Captured blend attributes do not guarantee a usable skeleton, animations or FMDL/MTAR round trip",
+      "Bundled Blender importer is legacy; current Blender compatibility has not been verified",
+      "ripdump.exe is included but has not been executed or exposed as an MCP adapter"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "mgsv-batch-unpacker": {
+    "aliases": [
+      "MGSV Batch Unpacker"
+    ],
+    "related_tools": [
+      "gzstool",
+      "foxtool",
+      "ftextool",
+      "file-monolith"
+    ],
+    "limitations": [
+      "Original batch wrapper not installed; equivalent underlying converters are callable individually"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "repo:mctrollin/fox_engine_mtar_tools_blender": {
+    "aliases": [
+      "Fox Engine MTAR Tools",
+      "Blender MTAR Tools"
+    ],
+    "recommended_for": [
+      "GANI1/GANI2 animation authoring through Blender"
+    ],
+    "requirements": [
+      "Blender 4.4+ according to author",
+      "Custom rig mapping"
+    ],
+    "limitations": [
+      "No general skeleton reconstruction; unsupported tracks and lossy round trips are documented",
+      "Blender host is not automated by this MCP"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "repo:chocmake/mgsv-normal-map-channels-converter": {
+    "aliases": [
+      "MGSV Normal Map Channels Converter"
+    ],
+    "requirements": [
+      "ImageMagick 7+"
+    ],
+    "recommended_for": [
+      "Fox Engine normal-map channel conversion"
+    ],
+    "limitations": [
+      "Documented script, not an executable MCP adapter"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "repo:bnnm/wwiser": {
+    "aliases": [
+      "wwiser",
+      "Wwise bank inspector"
+    ],
+    "requirements": [
+      "Python 3"
+    ],
+    "recommended_for": [
+      "Wwise BNK event and structure inspection"
+    ],
+    "limitations": [
+      "Cannot modify soundbanks",
+      "Source/documentation access; no execution adapter"
+    ],
+    "reviewed_at": "2026-10-10"
+  },
+  "repo:tinmantex/mgsv-lookup-strings": {
+    "aliases": [
+      "MGSV lookup strings",
+      "current QAR dictionary"
+    ],
+    "recommended_for": [
+      "Hash and filename recovery"
+    ],
+    "limitations": [
+      "Dictionary changes are not silently applied to installed converters"
+    ],
+    "reviewed_at": "2026-10-10"
+  }
+}

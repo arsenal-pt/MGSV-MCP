@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/
+workspace/
+config.local.json
+mcp.client.json
+*.egg-info/
+build/
+dist/
+.env
+.env.*
