@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased — expanded community attribution
+
+Added prominent README acknowledgement, direct tool-by-tool creator/maintainer credits, preserved FMDL Studio/SnakeBite/IHHook collaborator lists, and an evidence-labeled211-entry attribution index. Contributions must preserve and update upstream attribution. Runtime0.3.2 and the existingv0.3.2tag remain unchanged.
+
 ## 0.3.2 — 2026-10-15
 
 First curated public MGSV MCP source publication. Preserve the existing 25-tool/20-adapter implementation and synthetic tests. Add public setup/tool/safety/contribution/credit documentation and GPL-3.0-only scope; exclude local caches, tool binaries and private workbench/game material. Align package/server/project versions (the previous package __version__ was stale), generate ignored machine-local client configuration during setup, and make the Ninja Ripper instruction honest for a fresh clone. Add metadata/contract regression checks. No live server registration or game installation changed.

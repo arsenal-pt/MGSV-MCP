@@ -12,3 +12,7 @@ High-value contributions: native format round-trip fixtures without game assets;
 6. Submit a pull request with scope, rationale, validation and remaining limits. State AI assistance honestly and credit upstream work. Human-authored contributions will be credited separately.
 
 Contributions should be compatible with GPL-3.0-only for eligible original code. Third-party material needs its own compatible permission and attribution; do not assume the project license relicenses it. You keep authorship of your contribution. Forks and distributed derivatives are governed by applicable GPL terms; sending improvements back here and crediting arsenal-pt/MGSV MCP are appreciated, not additional license restrictions.
+
+## Preserve upstream attribution
+
+When adding or changing an adapter/reference, name the original creator and credited contributors, link the primary project, distinguish fork maintenance from original authorship, and update CREDITS.md plus the attribution index/records. Preserve applicable upstream notices. If an author is unknown, mark the gap explicitly and supply evidence with corrections; do not infer sole authorship from a repository owner.

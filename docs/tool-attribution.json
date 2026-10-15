@@ -1,0 +1,2646 @@
+{
+  "date": "2026-10-15",
+  "scope": "Historical211-entry catalog; references and fork ownership are distinguished from original authorship",
+  "wiki_revision": "2326cdf753a6fcfefb1867dd66ed97a078d4d114",
+  "evidence": "Pinned wiki dev infoboxes, linked public repository identities and named upstream README/publisher credits; incomplete historical authorship explicitly marked",
+  "entries": [
+    {
+      "id": "archive-transferrer",
+      "name": "Archive Transferrer",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "wiki creator credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/File_Monolith.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Monolith/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "archive-unpacker",
+      "name": "Archive Unpacker",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "wiki creator credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/File_Monolith.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Monolith/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "autopftxstool",
+      "name": "AutoPftxsTool",
+      "credit": "BobDoleOwndU and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/AutoPftxsTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/AutoPftxsTool/",
+        "https://github.com/BobDoleOwndU/AutoPftxsTool",
+        "https://github.com/BobDoleOwndU/AutoPftxsTool/releases"
+      ],
+      "repository": "BobDoleOwndU/AutoPftxsTool"
+    },
+    {
+      "id": "fcnptool",
+      "name": "FcnpTool",
+      "credit": "BobDoleOwndU and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/BobDoleOwndU/FcnpTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FCNP/",
+        "https://github.com/BobDoleOwndU/FcnpTool"
+      ],
+      "repository": "BobDoleOwndU/FcnpTool"
+    },
+    {
+      "id": "ffnttool",
+      "name": "FfntTool",
+      "credit": "Atvaark and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/LangTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FfntTool/",
+        "https://github.com/Atvaark/FoxEngine.TranslationTool",
+        "https://github.com/Atvaark/FoxEngine.TranslationTool/releases"
+      ],
+      "repository": "Atvaark/FoxEngine.TranslationTool"
+    },
+    {
+      "id": "file-monolith",
+      "name": "File Monolith",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "wiki creator credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/File_Monolith.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Monolith/",
+        "https://github.com/Morbidslinky/FileMonolith",
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/739"
+      ],
+      "repository": "morbidslinky/FileMonolith"
+    },
+    {
+      "id": "file-proliferator",
+      "name": "File Proliferator",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "wiki creator credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/File_Monolith.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Monolith/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "filename-updater",
+      "name": "Filename Updater",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "wiki creator credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/File_Monolith.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Monolith/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "fmdl-studio-v2",
+      "name": "FMDL Studio V2",
+      "credit": "BobDoleOwndU; Joey35233; youarebritish (sai); Tex; Highflex; revel8n; Jayveerk; cra0kalo; HeartlessSeph",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/BobDoleOwndU/FMDL-Studio-v2/blob/d580b94215cc007df6c38bdb0bfce6a0f30e4701/README.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FMDL_Studio_V2/",
+        "https://github.com/BobDoleOwndU/FMDL-Studio-v2",
+        "https://github.com/BobDoleOwndU/FMDL-Studio-v2/releases"
+      ],
+      "repository": "BobDoleOwndU/FMDL-Studio-v2"
+    },
+    {
+      "id": "formatting-reference",
+      "name": "Formatting Reference",
+      "credit": "MGSV Modding Wiki writers, editors and guide contributors",
+      "attribution_type": "collective documentation credit; individual page history remains upstream",
+      "source": "https://mgsvmoddingwiki.github.io/Meta/Formatting_Reference/",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Meta/Formatting_Reference/",
+        "https://mgsvmoddingwiki.github.io/",
+        "https://mgsvmoddingwiki.github.io/Meta/Formatting_Reference"
+      ],
+      "repository": null
+    },
+    {
+      "id": "foxkit",
+      "name": "FoxKit",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/FoxKit.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FoxKit/",
+        "https://github.com/Joey35233/FoxKit-3",
+        "https://github.com/youarebritish/FoxKit"
+      ],
+      "repository": "Joey35233/FoxKit-3"
+    },
+    {
+      "id": "foxtool",
+      "name": "FoxTool",
+      "credit": "Atvaark and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/FoxTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FoxTool/",
+        "https://github.com/Atvaark/FoxTool",
+        "https://github.com/Atvaark/FoxTool/releases"
+      ],
+      "repository": "Atvaark/FoxTool"
+    },
+    {
+      "id": "fsmtool",
+      "name": "FsmTool",
+      "credit": "BobDoleOwndU and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/FsmTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FsmTool/",
+        "https://github.com/BobDoleOwndU/FsmTool",
+        "https://github.com/BobDoleOwndU/FsmTool/releases"
+      ],
+      "repository": "BobDoleOwndU/FsmTool"
+    },
+    {
+      "id": "ftextool",
+      "name": "FtexTool",
+      "credit": "Atvaark and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/FtexTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FtexTool/",
+        "https://github.com/Atvaark/FtexTool",
+        "https://github.com/Atvaark/FtexTool/releases"
+      ],
+      "repository": "Atvaark/FtexTool"
+    },
+    {
+      "id": "fvtwool",
+      "name": "FvTwool",
+      "credit": "BobDoleOwndU and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/FvTwool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FvTwool/",
+        "https://github.com/BobDoleOwndU/FvTwool",
+        "https://github.com/BobDoleOwndU/FvTwool/releases"
+      ],
+      "repository": "BobDoleOwndU/FvTwool"
+    },
+    {
+      "id": "grxarraytool",
+      "name": "GrxArrayTool",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/kapuragu/GrxArrayTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/GRXLA/",
+        "https://github.com/kapuragu/GrxArrayTool"
+      ],
+      "repository": "kapuragu/GrxArrayTool"
+    },
+    {
+      "id": "gzstool",
+      "name": "GzsTool",
+      "credit": "Atvaark and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/GzsTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/GzsTool/",
+        "https://github.com/Atvaark/GzsTool",
+        "https://github.com/Atvaark/GzsTool/releases/tag/v0.5.3",
+        "https://github.com/BobDoleOwndU/GzsTool",
+        "https://github.com/BobDoleOwndU/GzsTool/releases"
+      ],
+      "repository": "Atvaark/GzsTool"
+    },
+    {
+      "id": "gzstool-bob",
+      "name": "GzsTool (Bob fork)",
+      "credit": "Atvaark (original); BobDoleOwndU (fork); project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/GzsTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/GzsTool/",
+        "https://github.com/BobDoleOwndU/GzsTool"
+      ],
+      "repository": "BobDoleOwndU/GzsTool"
+    },
+    {
+      "id": "gzstool-gz",
+      "name": "GzsTool (Ground Zeroes v0.2)",
+      "credit": "Atvaark and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/GzsTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/GzsTool/",
+        "https://github.com/Atvaark/GzsTool"
+      ],
+      "repository": "Atvaark/GzsTool"
+    },
+    {
+      "id": "ihhook",
+      "name": "IHHook",
+      "credit": "TinManTex; ZipfsLaw; project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/IHHook.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/IHHook/",
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/1226",
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/1226?tab=files"
+      ],
+      "repository": "TinManTex/IHHook"
+    },
+    {
+      "id": "imagemagick",
+      "name": "ImageMagick",
+      "credit": "ImageMagick team and contributors",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://imagemagick.org",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Working_With_DDS_Files/",
+        "https://imagemagick.org",
+        "https://imagemagick.org/script/download.php#windows"
+      ],
+      "repository": null
+    },
+    {
+      "id": "infinite-heaven",
+      "name": "Infinite Heaven",
+      "credit": "TinManTex and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/Infinite_Heaven.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Infinite_Heaven/",
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/45",
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/45?tab=files"
+      ],
+      "repository": "TinManTex/InfiniteHeaven"
+    },
+    {
+      "id": "langtool",
+      "name": "LangTool",
+      "credit": "Atvaark and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/LangTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/LangTool/",
+        "https://github.com/Atvaark/FoxEngine.TranslationTool",
+        "https://github.com/Atvaark/FoxEngine.TranslationTool/releases"
+      ],
+      "repository": "Atvaark/FoxEngine.TranslationTool"
+    },
+    {
+      "id": "lbatool",
+      "name": "LbaTool",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/youarebritish/LbaTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/LBA/",
+        "https://github.com/youarebritish/LbaTool"
+      ],
+      "repository": "youarebritish/LbaTool"
+    },
+    {
+      "id": "link:010-editor-www-sweetscape-com",
+      "name": "010 Editor",
+      "credit": "SweetScape Software",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://www.sweetscape.com/010editor/",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Creating_a_Custom_Sound_Bank/",
+        "https://www.sweetscape.com/010editor/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:audacity-www-audacityteam-org",
+      "name": "Audacity",
+      "credit": "Audacity team and contributors",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://www.audacityteam.org/",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Creating_a_Custom_Sound_Bank/",
+        "https://mgsvmoddingwiki.github.io/How_to_replace_sounds/",
+        "https://www.audacityteam.org/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:blender-www-blender-org",
+      "name": "Blender",
+      "credit": "Blender Foundation and contributors",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://www.blender.org/",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Using_FMDL_Studio_with_Blender/",
+        "https://www.blender.org/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:download-developer-nvidia-com",
+      "name": "Download",
+      "credit": "NVIDIA and contributors",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://developer.nvidia.com/texture-tools-exporter",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Working_With_DDS_Files/",
+        "https://developer.nvidia.com/texture-tools-exporter"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:download-on-hidden-palace-hiddenpalace-org",
+      "name": "Download on Hidden Palace.",
+      "credit": "Hidden Palace (archive/reference host); game authors retain original credit",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://hiddenpalace.org/Metal_Gear_Solid_V:_The_Phantom_Pain_(Aug_4,_2015_prototype)",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Pre-release_build/",
+        "https://hiddenpalace.org/Metal_Gear_Solid_V:_The_Phantom_Pain_(Aug_4,_2015_prototype)"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:download-page-git-scm-com",
+      "name": "download page",
+      "credit": "Git project contributors",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://git-scm.com/install/windows",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Meta/Running_a_Local_Server/",
+        "https://git-scm.com/install/windows"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:download-web-archive-org",
+      "name": "Download",
+      "credit": "NVIDIA and contributors",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://web.archive.org/web/20130125163329/https://developer.nvidia.com/nvidia-texture-tools-adobe-photoshop",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Working_With_DDS_Files/",
+        "https://web.archive.org/web/20130125163329/https://developer.nvidia.com/nvidia-texture-tools-adobe-photoshop"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:file-monolith-modmaker-toolset-recommended-www-nexusmods-com",
+      "name": "File Monolith Modmaker Toolset (Recommended)",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "wiki creator credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/File_Monolith.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Localization/",
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/739"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:fmdl-studio-v2-merging-models-w-blender-www-youtube-com",
+      "name": "Fmdl Studio v2: Merging Models w/ Blender",
+      "credit": "MGSV Modding Wiki contributors (documentation); original tool creator not identified in retained page",
+      "attribution_type": "documentation credit; tool authorship unresolved",
+      "source": "https://mgsvmoddingwiki.github.io/Guides/",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Guides/",
+        "https://www.youtube.com/watch?v=0Z5Pt9EkUZM"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:fpk-tool-web-archive-org",
+      "name": "FPK Tool",
+      "credit": "Sergeanur (original FPK/QAR tools); Atvaark preserves the attribution in format research",
+      "attribution_type": "named original creator in upstream format research",
+      "source": "https://github.com/Atvaark/TPP.FileFormats/blob/57909d78ee6090723882311190c381843b1b4814/README.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://web.archive.org/web/20230517070053/https://forum.xentax.com/viewtopic.php?t=12407&start=690#p110644"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:hxd-mh-nexus-de",
+      "name": "HxD",
+      "credit": "MH-Nexus",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://mh-nexus.de/en/downloads.php?product=HxD20",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Adding_'pack_small'_files_to_an_custom_map/",
+        "https://mgsvmoddingwiki.github.io/Creating_a_Custom_Sound_Bank/",
+        "https://mh-nexus.de/en/downloads.php?product=HxD20",
+        "https://mh-nexus.de/en/hxd/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:mgsv-sound-replacement-tool-www-nexusmods-com",
+      "name": "MGSV Sound Replacement Tool",
+      "credit": "Jakob (creator); Jakob6174 (uploader)",
+      "attribution_type": "verified publisher credit",
+      "source": "https://www.nexusmods.com/metalgearsolidvtpp/mods/826",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/How_to_replace_sounds/",
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/826"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:qar-tool-web-archive-org",
+      "name": "QAR Tool",
+      "credit": "Sergeanur (original FPK/QAR tools); Atvaark preserves the attribution in format research",
+      "attribution_type": "named original creator in upstream format research",
+      "source": "https://github.com/Atvaark/TPP.FileFormats/blob/57909d78ee6090723882311190c381843b1b4814/README.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://web.archive.org/web/20230516145600/https://forum.xentax.com/viewtopic.php?t=12407&start=1440#p124477"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:ravioli-game-tools-www-scampers-org",
+      "name": "Ravioli Game tools",
+      "credit": "Ravioli Game Tools author at the Scampers project; individual name not verified",
+      "attribution_type": "upstream project credit; individual authorship unresolved",
+      "source": "https://www.scampers.org/steve/sms/other.htm",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/How_to_replace_sounds/",
+        "https://www.scampers.org/steve/sms/other.htm"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:sound-replacement-tool-www-nexusmods-com",
+      "name": "Sound Replacement Tool",
+      "credit": "Jakob (creator); Jakob6174 (uploader)",
+      "attribution_type": "verified publisher credit",
+      "source": "https://www.nexusmods.com/metalgearsolidvtpp/mods/826",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/826"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:sound-swapping-and-the-wwise-format-bobdoleowndu-github-io",
+      "name": "Sound Swapping and the Wwise Format",
+      "credit": "BobDoleOwndU",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://bobdoleowndu.github.io/mgsv/documentation/soundswapping.html",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Guides/",
+        "https://bobdoleowndu.github.io/mgsv/documentation/soundswapping.html"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:wwise-2013-2-9-www-nexusmods-com",
+      "name": "Wwise 2013.2.9",
+      "credit": "Audiokinetic (Wwise); linked upload/archive hosts are not the software author",
+      "attribution_type": "software publisher credit",
+      "source": "https://www.audiokinetic.com/",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/How_To_Find_&_Change_Audio_Files/",
+        "https://www.nexusmods.com/witcher3/mods/3234"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:wwise-2013-www-nexusmods-com",
+      "name": "WWise 2013",
+      "credit": "Audiokinetic (Wwise); linked upload/archive hosts are not the software author",
+      "attribution_type": "software publisher credit",
+      "source": "https://www.audiokinetic.com/",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Creating_a_Custom_Sound_Bank/",
+        "https://www.nexusmods.com/witcher3/mods/3234"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:wwise-2015-mega-nz",
+      "name": "Wwise 2015",
+      "credit": "Audiokinetic (Wwise); linked upload/archive hosts are not the software author",
+      "attribution_type": "software publisher credit",
+      "source": "https://www.audiokinetic.com/",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/How_to_replace_sortie_prep_music_in_less_than_five_minutes/",
+        "https://mega.nz/file/HcxVBYjC#KBYOI1EQ54iFYgwF-oWi0tTuPAPlDgf-Y743CzQdTRI"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:wwise-soundbank-www-audiokinetic-com",
+      "name": "Wwise SoundBank",
+      "credit": "Audiokinetic",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://www.audiokinetic.com/library/edge/?source=WwiseFundamentalApproach&id=understanding_soundbanks_understanding_soundbanks",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://www.audiokinetic.com/library/edge/?source=WwiseFundamentalApproach&id=understanding_soundbanks_understanding_soundbanks"
+      ],
+      "repository": null
+    },
+    {
+      "id": "link:wwise-v2015-1-9-setup-exe-web-archive-org",
+      "name": "`Wwise_v2015.1.9_Setup.exe`",
+      "credit": "Audiokinetic",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://web.archive.org/web/20250826201342/https://www.audiokinetic.com/files/?get=2015.1.9_5624%2FWwise_v2015.1.9_Setup.exe",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Wwise/",
+        "https://web.archive.org/web/20250826201342/https://www.audiokinetic.com/files/?get=2015.1.9_5624%2FWwise_v2015.1.9_Setup.exe"
+      ],
+      "repository": null
+    },
+    {
+      "id": "makebite",
+      "name": "MakeBite",
+      "credit": "topher-au; TinManTex; Morbidslinky; ZipfsLaw; project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/SnakeBite_Mod_Manager.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/SnakeBite_Mod_Manager/"
+      ],
+      "repository": "TinManTex/SnakeBite"
+    },
+    {
+      "id": "mass-texture-converter",
+      "name": "Mass Texture Converter",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "wiki creator credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/File_Monolith.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Monolith/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "metal-gear-solid-v-save-manager",
+      "name": "Metal Gear Solid V Save Manager",
+      "credit": "MGSV Modding Wiki contributors (documentation); original tool creator not identified in retained page",
+      "attribution_type": "documentation credit; tool authorship unresolved",
+      "source": "https://mgsvmoddingwiki.github.io/Metal_Gear_Solid_V_Save_Manager/",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Metal_Gear_Solid_V_Save_Manager/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "mgsv-batch-unpacker",
+      "name": "MGSV Batch Unpacker",
+      "credit": "CantStoptheBipBop; upstream file credits retained",
+      "attribution_type": "verified publisher credit",
+      "source": "https://www.nexusmods.com/metalgearsolidvtpp/mods/358",
+      "project_urls": [
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/358"
+      ],
+      "repository": null
+    },
+    {
+      "id": "mgsv-qar-tool",
+      "name": "MGSV QAR Tool (Sergeanur, legacy)",
+      "credit": "Atvaark and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Atvaark/TPP.FileFormats",
+      "project_urls": [
+        "https://github.com/Atvaark/TPP.FileFormats"
+      ],
+      "repository": "Atvaark/TPP.FileFormats"
+    },
+    {
+      "id": "mtartool",
+      "name": "MtarTool",
+      "credit": "BobDoleOwndU and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/MtarTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/MtarTool/",
+        "https://github.com/BobDoleOwndU/MtarTool",
+        "https://github.com/BobDoleOwndU/MtarTool/releases"
+      ],
+      "repository": "BobDoleOwndU/MtarTool"
+    },
+    {
+      "id": "nexus:modders-resources",
+      "name": "Nexus Modders Resources and Tutorials discovery",
+      "credit": "Individual tutorial/mod authors; Nexus Mods hosts discovery",
+      "attribution_type": "discovery index, not one tool author",
+      "source": "https://www.nexusmods.com/games/metalgearsolidvtpp/mods?categoryName=Modders+Resources+and+Tutorials",
+      "project_urls": [
+        "https://www.nexusmods.com/games/metalgearsolidvtpp/mods?categoryName=Modders+Resources+and+Tutorials"
+      ],
+      "repository": null
+    },
+    {
+      "id": "ninja-ripper",
+      "name": "Ninja Ripper 1.7.1 (free legacy)",
+      "credit": "black_ninja / blackninja (Ninja Ripper); 3Doomer (GIMS Evo); Tosyk (guide)",
+      "attribution_type": "verified publisher credit",
+      "source": "https://cgig.ru/2012/10/ho-to-use-ninja-ripper/comment-page-19/",
+      "project_urls": [
+        "https://cgig.ru/ninjaripper/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "nvidia-dds-utilities",
+      "name": "Nvidia DDS Utilities",
+      "credit": "NVIDIA and contributors",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://developer.nvidia.com/legacy-texture-tools",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Working_With_DDS_Files/",
+        "https://developer.nvidia.com/legacy-texture-tools",
+        "https://developer.download.nvidia.com/akamai/tools/files/DDS_Utilities_8.31.1127.1645.exe"
+      ],
+      "repository": null
+    },
+    {
+      "id": "nvidia-texture-tools-exporter",
+      "name": "Nvidia Texture Tools Exporter",
+      "credit": "NVIDIA and contributors",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://developer.nvidia.com/texture-tools-exporter",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Working_With_DDS_Files/",
+        "https://developer.nvidia.com/texture-tools-exporter",
+        "https://developer.nvidia.com/downloads/texture-tools-standalone-app"
+      ],
+      "repository": null
+    },
+    {
+      "id": "paint-net",
+      "name": "Paint.NET",
+      "credit": "paintdotnet and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/paintdotnet/release",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Working_With_DDS_Files/",
+        "https://www.getpaint.net/index.html",
+        "https://www.dotpdn.com/downloads/pdn.html",
+        "https://github.com/paintdotnet/release/releases/latest"
+      ],
+      "repository": "paintdotnet/release"
+    },
+    {
+      "id": "photoshop",
+      "name": "Photoshop",
+      "credit": "Adobe",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://www.adobe.com/products/photoshop.html",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Working_With_DDS_Files/",
+        "https://www.adobe.com/products/photoshop.html"
+      ],
+      "repository": null
+    },
+    {
+      "id": "profile:joey35233",
+      "name": "Joey35233 MGSV projects",
+      "credit": "joey35233",
+      "attribution_type": "named profile discovery source",
+      "source": "https://github.com/Joey35233",
+      "project_urls": [
+        "https://github.com/Joey35233"
+      ],
+      "repository": null
+    },
+    {
+      "id": "profile:youarebritish",
+      "name": "youarebritish MGSV projects",
+      "credit": "youarebritish",
+      "attribution_type": "named profile discovery source",
+      "source": "https://github.com/youarebritish",
+      "project_urls": [
+        "https://github.com/youarebritish"
+      ],
+      "repository": null
+    },
+    {
+      "id": "rdftool",
+      "name": "RdfTool",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/kapuragu/RdfTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/RDF/",
+        "https://github.com/kapuragu/RdfTool"
+      ],
+      "repository": "kapuragu/RdfTool"
+    },
+    {
+      "id": "regex-file-copier",
+      "name": "Regex File Copier",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "wiki creator credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/File_Monolith.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Monolith/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "repo:0x-faded/mgsv-fsop-tool",
+      "name": "0x-FADED/mgsv-fsop-tool",
+      "credit": "0x-FADED and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/0x-FADED/mgsv-fsop-tool",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/0x-FADED/mgsv-fsop-tool"
+      ],
+      "repository": "0x-FADED/mgsv-fsop-tool"
+    },
+    {
+      "id": "repo:0xc0000054/pdn-ddsfiletype-plus",
+      "name": "0xC0000054/pdn-ddsfiletype-plus",
+      "credit": "0xC0000054 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/0xC0000054/pdn-ddsfiletype-plus",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Working_With_DDS_Files/",
+        "https://github.com/0xC0000054/pdn-ddsfiletype-plus"
+      ],
+      "repository": "0xC0000054/pdn-ddsfiletype-plus"
+    },
+    {
+      "id": "repo:aholicknight/mgsv-cheat-engine-tables",
+      "name": "Aholicknight/MGSV-Cheat-Engine-Tables",
+      "credit": "Aholicknight and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Aholicknight/MGSV-Cheat-Engine-Tables",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/Aholicknight/MGSV-Cheat-Engine-Tables"
+      ],
+      "repository": "Aholicknight/MGSV-Cheat-Engine-Tables"
+    },
+    {
+      "id": "repo:alicealys/mgo3-rce",
+      "name": "alicealys/mgo3-rce",
+      "credit": "alicealys and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/alicealys/mgo3-rce",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/alicealys/mgo3-rce"
+      ],
+      "repository": "alicealys/mgo3-rce"
+    },
+    {
+      "id": "repo:alicealys/tpp-mod",
+      "name": "alicealys/tpp-mod",
+      "credit": "alicealys and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/alicealys/tpp-mod",
+      "project_urls": [
+        "https://github.com/alicealys/tpp-server-emulator/blob/992fca953c996a193b3673e5559f7f20b4a3d7d5/docs/usage.md",
+        "https://github.com/topics/mgsv",
+        "https://github.com/alicealys/tpp-mod"
+      ],
+      "repository": "alicealys/tpp-mod"
+    },
+    {
+      "id": "repo:alicealys/tpp-server-emulator",
+      "name": "TPP server emulator",
+      "credit": "alicealys and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/alicealys/tpp-server-emulator",
+      "project_urls": [
+        "https://github.com/unknown321/mgsv_emulator",
+        "https://github.com/unknown321/mgsv_emulator/blob/adb0f91db5077ed9ad260b288e9bc76bd3d2805d/README.md",
+        "https://github.com/alicealys/tpp-server-emulator",
+        "https://github.com/alicealys/tpp-server-emulator/blob/992fca953c996a193b3673e5559f7f20b4a3d7d5/README.md",
+        "https://github.com/alicealys/tpp-server-emulator/blob/992fca953c996a193b3673e5559f7f20b4a3d7d5/docs/usage.md"
+      ],
+      "repository": "alicealys/tpp-server-emulator"
+    },
+    {
+      "id": "repo:atom0s/steamless",
+      "name": "atom0s/Steamless",
+      "credit": "atom0s and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/atom0s/Steamless",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Decrypting_Ground_Zeroes_EXE/",
+        "https://github.com/atom0s/Steamless"
+      ],
+      "repository": "atom0s/Steamless"
+    },
+    {
+      "id": "repo:atvaark/foxengine.translationtool",
+      "name": "Atvaark/FoxEngine.TranslationTool",
+      "credit": "Atvaark and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/LangTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FfntTool/",
+        "https://mgsvmoddingwiki.github.io/LangTool/",
+        "https://mgsvmoddingwiki.github.io/Localization/",
+        "https://mgsvmoddingwiki.github.io/SubpTool/",
+        "https://github.com/topics/mgsv"
+      ],
+      "repository": "Atvaark/FoxEngine.TranslationTool"
+    },
+    {
+      "id": "repo:atvaark/foxtool",
+      "name": "Atvaark/FoxTool",
+      "credit": "Atvaark and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/FoxTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Adding_'pack_small'_files_to_an_custom_map/",
+        "https://mgsvmoddingwiki.github.io/Creating_a_Custom_Sound_Bank/",
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://mgsvmoddingwiki.github.io/FoxTool/",
+        "https://mgsvmoddingwiki.github.io/Localization/"
+      ],
+      "repository": "Atvaark/FoxTool"
+    },
+    {
+      "id": "repo:atvaark/ftextool",
+      "name": "Atvaark/FtexTool",
+      "credit": "Atvaark and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/FtexTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FILTERLUT_Texture_Guide/",
+        "https://mgsvmoddingwiki.github.io/FtexTool/",
+        "https://mgsvmoddingwiki.github.io/Retexturing_the_Bionic_Arm/FMDL_Studio_2/",
+        "https://mgsvmoddingwiki.github.io/Retexturing_the_Bionic_Arm/Path_Replacer_Script/",
+        "https://mgsvmoddingwiki.github.io/Retexturing_the_Bionic_Arm/PFTXS_Only/"
+      ],
+      "repository": "Atvaark/FtexTool"
+    },
+    {
+      "id": "repo:atvaark/gzstool",
+      "name": "Atvaark/GzsTool",
+      "credit": "Atvaark and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/GzsTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/GzsTool/",
+        "https://mgsvmoddingwiki.github.io/Localization/",
+        "https://mgsvmoddingwiki.github.io/Unpacking_and_Organizing_Game_Files/",
+        "https://github.com/topics/mgsv",
+        "https://github.com/morbidslinky/SOC/wiki/Guide%3A-Enemy-Patrol-Routes/e53258907b6d7a17ddf6f42c2f30c6d3cd13b09f"
+      ],
+      "repository": "Atvaark/GzsTool"
+    },
+    {
+      "id": "repo:atvaark/tpp.fileformats",
+      "name": "Atvaark/TPP.FileFormats",
+      "credit": "Atvaark and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Atvaark/TPP.FileFormats",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/Atvaark/TPP.FileFormats"
+      ],
+      "repository": "Atvaark/TPP.FileFormats"
+    },
+    {
+      "id": "repo:bnnm/wwiser",
+      "name": "wwiser Wwise bank inspector",
+      "credit": "bnnm and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/bnnm/wwiser",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Wwise/",
+        "https://github.com/bnnm/wwiser"
+      ],
+      "repository": "bnnm/wwiser"
+    },
+    {
+      "id": "repo:bnnm/wwiser-utils",
+      "name": "bnnm/wwiser-utils",
+      "credit": "bnnm and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/bnnm/wwiser-utils",
+      "project_urls": [
+        "https://github.com/bnnm/wwiser/blob/08e937b649bc7007c234bbd59e34a41d5eef3b38/README.md",
+        "https://github.com/bnnm/wwiser/blob/08e937b649bc7007c234bbd59e34a41d5eef3b38/doc/WWISER.md",
+        "https://github.com/bnnm/wwiser-utils"
+      ],
+      "repository": "bnnm/wwiser-utils"
+    },
+    {
+      "id": "repo:bobdoleowndu/autopftxstool",
+      "name": "BobDoleOwndU/AutoPftxsTool",
+      "credit": "BobDoleOwndU and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/AutoPftxsTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/AutoPftxsTool/",
+        "https://mgsvmoddingwiki.github.io/FoxKit-_TppPrimRiverModel_TppWaterBounding_TppTextureLoader_and_FxLocatorData/",
+        "https://mgsvmoddingwiki.github.io/Retexturing_the_Bionic_Arm/PFTXS_Only/",
+        "https://github.com/BobDoleOwndU/AutoPftxsTool"
+      ],
+      "repository": "BobDoleOwndU/AutoPftxsTool"
+    },
+    {
+      "id": "repo:bobdoleowndu/fcnptool",
+      "name": "BobDoleOwndU/FcnpTool",
+      "credit": "BobDoleOwndU and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/BobDoleOwndU/FcnpTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FCNP/",
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://github.com/BobDoleOwndU/FcnpTool"
+      ],
+      "repository": "BobDoleOwndU/FcnpTool"
+    },
+    {
+      "id": "repo:bobdoleowndu/fmdl-studio-v2",
+      "name": "FMDL Studio V2 publisher source",
+      "credit": "BobDoleOwndU; Joey35233; youarebritish (sai); Tex; Highflex; revel8n; Jayveerk; cra0kalo; HeartlessSeph",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/BobDoleOwndU/FMDL-Studio-v2/blob/d580b94215cc007df6c38bdb0bfce6a0f30e4701/README.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://mgsvmoddingwiki.github.io/FMDL_Studio_V2/",
+        "https://mgsvmoddingwiki.github.io/Retexturing_the_Bionic_Arm/FMDL_Studio_2/",
+        "https://mgsvmoddingwiki.github.io/Retexturing_the_Bionic_Arm/Path_Replacer_Script/",
+        "https://mgsvmoddingwiki.github.io/Using_FMDL_Studio_with_Blender/"
+      ],
+      "repository": "BobDoleOwndU/FMDL-Studio-v2"
+    },
+    {
+      "id": "repo:bobdoleowndu/fsmtool",
+      "name": "BobDoleOwndU/FsmTool",
+      "credit": "BobDoleOwndU and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/FsmTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://mgsvmoddingwiki.github.io/FsmTool/",
+        "https://github.com/BobDoleOwndU/FsmTool"
+      ],
+      "repository": "BobDoleOwndU/FsmTool"
+    },
+    {
+      "id": "repo:bobdoleowndu/fvtwool",
+      "name": "FvTwool publisher source",
+      "credit": "BobDoleOwndU and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/FvTwool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://mgsvmoddingwiki.github.io/FvTwool/",
+        "https://github.com/BobDoleOwndU/FvTwool"
+      ],
+      "repository": "BobDoleOwndU/FvTwool"
+    },
+    {
+      "id": "repo:bobdoleowndu/gzstool",
+      "name": "BobDoleOwndU/GzsTool",
+      "credit": "Atvaark (original); BobDoleOwndU (fork); project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/GzsTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/GzsTool/",
+        "https://github.com/mctrollin/fox_engine_mtar_tools_blender/blob/7fa90e589349ad4ba87102f0061a8d8d343a8bf4/README.md",
+        "https://github.com/BobDoleOwndU/FMDL-Studio-v2/wiki/Setting-up-Fmdl-Studio-v2/2cdaa4eefe9b8f57357e865870d902e961fb82d9",
+        "https://github.com/BobDoleOwndU/GzsTool"
+      ],
+      "repository": "BobDoleOwndU/GzsTool"
+    },
+    {
+      "id": "repo:bobdoleowndu/mtartool",
+      "name": "BobDoleOwndU/MtarTool",
+      "credit": "BobDoleOwndU and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/MtarTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/MtarTool/",
+        "https://github.com/BobDoleOwndU/MtarTool"
+      ],
+      "repository": "BobDoleOwndU/MtarTool"
+    },
+    {
+      "id": "repo:bobdoleowndu/nav2parser",
+      "name": "BobDoleOwndU/Nav2Parser",
+      "credit": "BobDoleOwndU and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/BobDoleOwndU/Nav2Parser",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://github.com/BobDoleOwndU/Nav2Parser"
+      ],
+      "repository": "BobDoleOwndU/Nav2Parser"
+    },
+    {
+      "id": "repo:bobdoleowndu/quickhash",
+      "name": "BobDoleOwndU/QuickHash",
+      "credit": "BobDoleOwndU and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/BobDoleOwndU/QuickHash",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Retexturing_the_Bionic_Arm/Path_Replacer_Script/",
+        "https://mgsvmoddingwiki.github.io/VFXLB/",
+        "https://github.com/BobDoleOwndU/QuickHash"
+      ],
+      "repository": "BobDoleOwndU/QuickHash"
+    },
+    {
+      "id": "repo:chocmake/chocmake.github.io",
+      "name": "chocmake/chocmake.github.io",
+      "credit": "chocmake and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/chocmake/chocmake.github.io",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/GANI/",
+        "https://github.com/chocmake/chocmake.github.io"
+      ],
+      "repository": "chocmake/chocmake.github.io"
+    },
+    {
+      "id": "repo:chocmake/mgsv-custom-texture-path-hex-replacer",
+      "name": "chocmake/MGSV-Custom-Texture-Path-Hex-Replacer",
+      "credit": "chocmake and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/chocmake/MGSV-Custom-Texture-Path-Hex-Replacer",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Guides/",
+        "https://mgsvmoddingwiki.github.io/Retexturing_the_Bionic_Arm/Path_Replacer_Script/",
+        "https://github.com/chocmake/MGSV-Normal-Map-Channels-Converter/blob/ad51fe7200cba6320e7482e362d4c1ab6ef666c7/README.md",
+        "https://github.com/chocmake/MGSV-Custom-Texture-Path-Hex-Replacer"
+      ],
+      "repository": "chocmake/MGSV-Custom-Texture-Path-Hex-Replacer"
+    },
+    {
+      "id": "repo:chocmake/mgsv-normal-map-channels-converter",
+      "name": "MGSV Normal Map Channels Converter",
+      "credit": "chocmake and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/chocmake/MGSV-Normal-Map-Channels-Converter",
+      "project_urls": [
+        "https://github.com/chocmake/MGSV-Normal-Map-Channels-Converter",
+        "https://github.com/chocmake/MGSV-Normal-Map-Channels-Converter/blob/ad51fe7200cba6320e7482e362d4c1ab6ef666c7/README.md"
+      ],
+      "repository": "chocmake/MGSV-Normal-Map-Channels-Converter"
+    },
+    {
+      "id": "repo:cstbipbop/mgsv-dictionary-generator",
+      "name": "cstBipBop/MGSV-dictionary-generator",
+      "credit": "cstBipBop and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/cstBipBop/MGSV-dictionary-generator",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Hash_Wrangling/",
+        "https://github.com/cstBipBop/MGSV-dictionary-generator"
+      ],
+      "repository": "cstBipBop/MGSV-dictionary-generator"
+    },
+    {
+      "id": "repo:danielsvoboda/fox-engine-file-decryptor-e6eff8a0",
+      "name": "DanielSvoboda/Fox-Engine-File-Decryptor-E6EFF8A0",
+      "credit": "DanielSvoboda and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/DanielSvoboda/Fox-Engine-File-Decryptor-E6EFF8A0",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/DanielSvoboda/Fox-Engine-File-Decryptor-E6EFF8A0"
+      ],
+      "repository": "DanielSvoboda/Fox-Engine-File-Decryptor-E6EFF8A0"
+    },
+    {
+      "id": "repo:deiteris/mgsv_seikowatch",
+      "name": "deiteris/mgsv_seikowatch",
+      "credit": "deiteris and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/deiteris/mgsv_seikowatch",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/deiteris/mgsv_seikowatch"
+      ],
+      "repository": "deiteris/mgsv_seikowatch"
+    },
+    {
+      "id": "repo:emoose/mgsv-qar-dictionary-project",
+      "name": "emoose/MGSV-QAR-Dictionary-Project",
+      "credit": "emoose and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/emoose/MGSV-QAR-Dictionary-Project",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Hash_Wrangling/",
+        "https://mgsvmoddingwiki.github.io/Links_to_Useful_Github_Repos/",
+        "https://github.com/topics/mgsv",
+        "https://github.com/emoose/MGSV-QAR-Dictionary-Project"
+      ],
+      "repository": "emoose/MGSV-QAR-Dictionary-Project"
+    },
+    {
+      "id": "repo:iliasmaatallaoui/scansentry",
+      "name": "iliasmaatallaoui/ScanSentry",
+      "credit": "iliasmaatallaoui and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/iliasmaatallaoui/ScanSentry",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/iliasmaatallaoui/ScanSentry"
+      ],
+      "repository": "iliasmaatallaoui/ScanSentry"
+    },
+    {
+      "id": "repo:joey35233/fmdl-studio-v2",
+      "name": "Joey35233/FMDL-Studio-v2",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Joey35233/FMDL-Studio-v2",
+      "project_urls": [
+        "https://github.com/Joey35233",
+        "https://github.com/Joey35233/FMDL-Studio-v2"
+      ],
+      "repository": "Joey35233/FMDL-Studio-v2"
+    },
+    {
+      "id": "repo:joey35233/foxkit",
+      "name": "Joey35233/FoxKit",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Joey35233/FoxKit",
+      "project_urls": [
+        "https://github.com/Joey35233",
+        "https://github.com/Joey35233/FoxKit"
+      ],
+      "repository": "Joey35233/FoxKit"
+    },
+    {
+      "id": "repo:joey35233/foxkit-3",
+      "name": "FoxKit 3",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/FoxKit.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FoxKit/",
+        "https://github.com/Joey35233/FoxKit-3",
+        "https://github.com/Joey35233",
+        "https://github.com/mctrollin/fox_engine_mtar_tools_blender/blob/7fa90e589349ad4ba87102f0061a8d8d343a8bf4/README.md"
+      ],
+      "repository": "Joey35233/FoxKit-3"
+    },
+    {
+      "id": "repo:joey35233/foxkitmodmanager",
+      "name": "Joey35233/FoxKitModManager",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Joey35233/FoxKitModManager",
+      "project_urls": [
+        "https://github.com/Joey35233",
+        "https://github.com/Joey35233/FoxKitModManager"
+      ],
+      "repository": "Joey35233/FoxKitModManager"
+    },
+    {
+      "id": "repo:joey35233/foxlib",
+      "name": "Joey35233/FoxLib",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Joey35233/FoxLib",
+      "project_urls": [
+        "https://github.com/Joey35233",
+        "https://github.com/Joey35233/FoxLib"
+      ],
+      "repository": "Joey35233/FoxLib"
+    },
+    {
+      "id": "repo:joey35233/foxmayatools",
+      "name": "Joey35233/FoxMayaTools",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Joey35233/FoxMayaTools",
+      "project_urls": [
+        "https://github.com/Joey35233",
+        "https://github.com/mctrollin/fox_engine_mtar_tools_blender/blob/7fa90e589349ad4ba87102f0061a8d8d343a8bf4/README.md",
+        "https://github.com/Joey35233/FoxMayaTools"
+      ],
+      "repository": "Joey35233/FoxMayaTools"
+    },
+    {
+      "id": "repo:joey35233/geomtool",
+      "name": "Joey35233/GeomTool",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Joey35233/GeomTool",
+      "project_urls": [
+        "https://github.com/Joey35233",
+        "https://github.com/Joey35233/GeomTool"
+      ],
+      "repository": "Joey35233/GeomTool"
+    },
+    {
+      "id": "repo:joey35233/makebiteunity",
+      "name": "Joey35233/MakeBiteUnity",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Joey35233/MakeBiteUnity",
+      "project_urls": [
+        "https://github.com/Joey35233",
+        "https://github.com/Joey35233/MakeBiteUnity"
+      ],
+      "repository": "Joey35233/MakeBiteUnity"
+    },
+    {
+      "id": "repo:joey35233/mspm-texture-tool",
+      "name": "Joey35233/MSPM-Texture-Tool",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Joey35233/MSPM-Texture-Tool",
+      "project_urls": [
+        "https://github.com/Joey35233",
+        "https://github.com/Joey35233/MSPM-Texture-Tool"
+      ],
+      "repository": "Joey35233/MSPM-Texture-Tool"
+    },
+    {
+      "id": "repo:joey35233/mtartool",
+      "name": "Joey35233/MtarTool",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Joey35233/MtarTool",
+      "project_urls": [
+        "https://github.com/Joey35233",
+        "https://github.com/Joey35233/MtarTool"
+      ],
+      "repository": "Joey35233/MtarTool"
+    },
+    {
+      "id": "repo:joey35233/obrvisualizer",
+      "name": "Joey35233/OBRVisualizer",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Joey35233/OBRVisualizer",
+      "project_urls": [
+        "https://github.com/Joey35233",
+        "https://github.com/Joey35233/OBRVisualizer"
+      ],
+      "repository": "Joey35233/OBRVisualizer"
+    },
+    {
+      "id": "repo:joey35233/sqardatabase",
+      "name": "Joey35233/SQARDatabase",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Joey35233/SQARDatabase",
+      "project_urls": [
+        "https://github.com/Joey35233",
+        "https://github.com/Joey35233/SQARDatabase"
+      ],
+      "repository": "Joey35233/SQARDatabase"
+    },
+    {
+      "id": "repo:joey35233/traptool",
+      "name": "Joey35233/TrapTool",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Joey35233/TrapTool",
+      "project_urls": [
+        "https://github.com/Joey35233",
+        "https://github.com/Joey35233/TrapTool"
+      ],
+      "repository": "Joey35233/TrapTool"
+    },
+    {
+      "id": "repo:joey35233/twpftool",
+      "name": "Joey35233/TwpfTool",
+      "credit": "Joey35233 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Joey35233/TwpfTool",
+      "project_urls": [
+        "https://github.com/Joey35233",
+        "https://github.com/Joey35233/TwpfTool"
+      ],
+      "repository": "Joey35233/TwpfTool"
+    },
+    {
+      "id": "repo:josephzoeller/filemonolith",
+      "name": "JosephZoeller/FileMonolith",
+      "credit": "JosephZoeller and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/JosephZoeller/FileMonolith",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Unpacking_and_Organizing_Game_Files/",
+        "https://github.com/JosephZoeller/FileMonolith"
+      ],
+      "repository": "JosephZoeller/FileMonolith"
+    },
+    {
+      "id": "repo:josephzoeller/gzstool",
+      "name": "JosephZoeller/GzsTool",
+      "credit": "JosephZoeller and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/JosephZoeller/GzsTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Monolith/",
+        "https://github.com/morbidslinky/FileMonolith/blob/cd5440857238c21aa9e6174803d211cf3543b630/README.md",
+        "https://github.com/JosephZoeller/GzsTool"
+      ],
+      "repository": "JosephZoeller/GzsTool"
+    },
+    {
+      "id": "repo:josephzoeller/soc",
+      "name": "JosephZoeller/SOC",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/SideOp_Companion.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Create_a_Custom_Map/",
+        "https://mgsvmoddingwiki.github.io/SideOp_Companion/",
+        "https://github.com/JosephZoeller/SOC"
+      ],
+      "repository": "JosephZoeller/SOC"
+    },
+    {
+      "id": "repo:kapuragu/foxengine.translationtool",
+      "name": "kapuragu/FoxEngine.TranslationTool",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/kapuragu/FoxEngine.TranslationTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Localization/",
+        "https://github.com/kapuragu/FoxEngine.TranslationTool"
+      ],
+      "repository": "kapuragu/FoxEngine.TranslationTool"
+    },
+    {
+      "id": "repo:kapuragu/foxenginetemplates",
+      "name": "kapuragu/FoxEngineTemplates",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/kapuragu/FoxEngineTemplates",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Entity/",
+        "https://mgsvmoddingwiki.github.io/FCNP/",
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://mgsvmoddingwiki.github.io/FMDL/",
+        "https://mgsvmoddingwiki.github.io/GANI/"
+      ],
+      "repository": "kapuragu/FoxEngineTemplates"
+    },
+    {
+      "id": "repo:kapuragu/grxarraytool",
+      "name": "kapuragu/GrxArrayTool",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/kapuragu/GrxArrayTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://github.com/kapuragu/GrxArrayTool"
+      ],
+      "repository": "kapuragu/GrxArrayTool"
+    },
+    {
+      "id": "repo:kapuragu/infiniteheaven",
+      "name": "kapuragu/InfiniteHeaven",
+      "credit": "TinManTex (original); kapuragu (fork maintainer); project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/Infinite_Heaven.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/EquipParameters/",
+        "https://mgsvmoddingwiki.github.io/Infinite_Heaven/",
+        "https://mgsvmoddingwiki.github.io/Messages/",
+        "https://mgsvmoddingwiki.github.io/V_Framework_Custom_Outfits/",
+        "https://github.com/morbidslinky/SOC/wiki/Step-3%3A-Scripting/e53258907b6d7a17ddf6f42c2f30c6d3cd13b09f"
+      ],
+      "repository": "kapuragu/InfiniteHeaven"
+    },
+    {
+      "id": "repo:kapuragu/mgsv-lookup-strings",
+      "name": "kapuragu/mgsv-lookup-strings",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/kapuragu/mgsv-lookup-strings",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Quark_System/",
+        "https://github.com/kapuragu/mgsv-lookup-strings"
+      ],
+      "repository": "kapuragu/mgsv-lookup-strings"
+    },
+    {
+      "id": "repo:kapuragu/rdftool",
+      "name": "kapuragu/RdfTool",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/kapuragu/RdfTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://github.com/kapuragu/RdfTool"
+      ],
+      "repository": "kapuragu/RdfTool"
+    },
+    {
+      "id": "repo:kapuragu/spchtool",
+      "name": "kapuragu/SpchTool",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/kapuragu/SpchTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://mgsvmoddingwiki.github.io/SPCH/",
+        "https://github.com/kapuragu/SpchTool"
+      ],
+      "repository": "kapuragu/SpchTool"
+    },
+    {
+      "id": "repo:kapuragu/stptool",
+      "name": "kapuragu/StpTool",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/kapuragu/StpTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://github.com/kapuragu/StpTool"
+      ],
+      "repository": "kapuragu/StpTool"
+    },
+    {
+      "id": "repo:kapuragu/tcvptool",
+      "name": "kapuragu/TcvpTool",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/kapuragu/TcvpTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://github.com/kapuragu/TcvpTool"
+      ],
+      "repository": "kapuragu/TcvpTool"
+    },
+    {
+      "id": "repo:kapuragu/traptool",
+      "name": "kapuragu/TrapTool",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/kapuragu/TrapTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://github.com/kapuragu/TrapTool"
+      ],
+      "repository": "kapuragu/TrapTool"
+    },
+    {
+      "id": "repo:krovskiy/midi-to-appeal",
+      "name": "krovskiy/midi-to-appeal",
+      "credit": "krovskiy and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/krovskiy/midi-to-appeal",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/krovskiy/midi-to-appeal"
+      ],
+      "repository": "krovskiy/midi-to-appeal"
+    },
+    {
+      "id": "repo:matoking/protontricks",
+      "name": "Matoking/protontricks",
+      "credit": "Matoking and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Matoking/protontricks",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Ghidra_tips/",
+        "https://github.com/Matoking/protontricks"
+      ],
+      "repository": "Matoking/protontricks"
+    },
+    {
+      "id": "repo:mctrollin/fox_engine_mtar_tools_blender",
+      "name": "Fox Engine MTAR Tools for Blender",
+      "credit": "mctrollin and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/mctrollin/fox_engine_mtar_tools_blender",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/GANI/",
+        "https://mgsvmoddingwiki.github.io/MTAR/",
+        "https://mgsvmoddingwiki.github.io/Unsolved_problems/",
+        "https://github.com/mctrollin/fox_engine_mtar_tools_blender"
+      ],
+      "repository": "mctrollin/fox_engine_mtar_tools_blender"
+    },
+    {
+      "id": "repo:mgsvmoddingwiki/mgsvmoddingwiki.github.io",
+      "name": "mgsvmoddingwiki/mgsvmoddingwiki.github.io",
+      "credit": "mgsvmoddingwiki and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Meta/Creating_Editing_Pages/",
+        "https://mgsvmoddingwiki.github.io/Meta/Creating_Editing_Pages/Using_Github_com/",
+        "https://mgsvmoddingwiki.github.io/Meta/Creating_Editing_Pages/Using_Prose_io/",
+        "https://mgsvmoddingwiki.github.io/Meta/Formatting_Reference/",
+        "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io"
+      ],
+      "repository": "mgsvmoddingwiki/mgsvmoddingwiki.github.io"
+    },
+    {
+      "id": "repo:morbidslinky/filemonolith",
+      "name": "File Monolith toolset",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/File_Monolith.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Monolith/",
+        "https://mgsvmoddingwiki.github.io/Retexturing_the_Bionic_Arm/FMDL_Studio_2/",
+        "https://mgsvmoddingwiki.github.io/Retexturing_the_Bionic_Arm/Path_Replacer_Script/",
+        "https://mgsvmoddingwiki.github.io/Retexturing_the_Bionic_Arm/PFTXS_Only/",
+        "https://github.com/morbidslinky/FileMonolith"
+      ],
+      "repository": "morbidslinky/FileMonolith"
+    },
+    {
+      "id": "repo:morbidslinky/soc",
+      "name": "SideOp Companion (SOC)",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/SideOp_Companion.md",
+      "project_urls": [
+        "https://github.com/morbidslinky/SOC",
+        "https://github.com/morbidslinky/SOC/blob/f81a435f2765f96fcac679fc009b96c1fe7b1b61/README.md",
+        "https://github.com/morbidslinky/SOC/wiki",
+        "https://github.com/morbidslinky/SOC/wiki/Home/e53258907b6d7a17ddf6f42c2f30c6d3cd13b09f",
+        "https://github.com/morbidslinky/SOC/wiki/Step-1%3A-Setup/e53258907b6d7a17ddf6f42c2f30c6d3cd13b09f"
+      ],
+      "repository": "morbidslinky/SOC"
+    },
+    {
+      "id": "repo:mxmstr/mgsv_emulator",
+      "name": "mxmstr/mgsv_emulator",
+      "credit": "mxmstr and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/mxmstr/mgsv_emulator",
+      "project_urls": [
+        "https://github.com/unknown321/mgsv_emulator/blob/adb0f91db5077ed9ad260b288e9bc76bd3d2805d/README.md",
+        "https://github.com/mxmstr/mgsv_emulator"
+      ],
+      "repository": "mxmstr/mgsv_emulator"
+    },
+    {
+      "id": "repo:mxmstr/nucleusgamefixes",
+      "name": "Nucleus Game Fixes: MGSV research",
+      "credit": "mxmstr and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/mxmstr/NucleusGameFixes",
+      "project_urls": [
+        "https://github.com/unknown321/mgsv_emulator/blob/adb0f91db5077ed9ad260b288e9bc76bd3d2805d/README.md",
+        "https://github.com/mxmstr/NucleusGameFixes"
+      ],
+      "repository": "mxmstr/NucleusGameFixes"
+    },
+    {
+      "id": "repo:nasanhak/git-tuppm-src",
+      "name": "NasaNhak/git-tuppm-src",
+      "credit": "NasaNhak and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/NasaNhak/git-tuppm-src",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Guides/",
+        "https://github.com/topics/mgsv",
+        "https://github.com/NasaNhak/git-tuppm-src"
+      ],
+      "repository": "NasaNhak/git-tuppm-src"
+    },
+    {
+      "id": "repo:noskap/snakebitegz",
+      "name": "noskap/SnakeBiteGZ",
+      "credit": "noskap and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/noskap/SnakeBiteGZ",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Ground_Zeroes/",
+        "https://github.com/noskap/SnakeBiteGZ"
+      ],
+      "repository": "noskap/SnakeBiteGZ"
+    },
+    {
+      "id": "repo:oldbanana12/nav2",
+      "name": "oldbanana12/Nav2",
+      "credit": "oldbanana12 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/oldbanana12/Nav2",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/NAV2/",
+        "https://github.com/oldbanana12/Nav2"
+      ],
+      "repository": "oldbanana12/Nav2"
+    },
+    {
+      "id": "repo:oneclick/rubyinstaller2",
+      "name": "oneclick/rubyinstaller2",
+      "credit": "oneclick and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/oneclick/rubyinstaller2",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Meta/Running_a_Local_Server/",
+        "https://github.com/oneclick/rubyinstaller2"
+      ],
+      "repository": "oneclick/rubyinstaller2"
+    },
+    {
+      "id": "repo:paintdotnet/release",
+      "name": "paintdotnet/release",
+      "credit": "paintdotnet and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/paintdotnet/release",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Working_With_DDS_Files/",
+        "https://github.com/paintdotnet/release"
+      ],
+      "repository": "paintdotnet/release"
+    },
+    {
+      "id": "repo:pkukkapalli/emblemsnake",
+      "name": "pkukkapalli/emblemsnake",
+      "credit": "pkukkapalli and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/pkukkapalli/emblemsnake",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/pkukkapalli/emblemsnake"
+      ],
+      "repository": "pkukkapalli/emblemsnake"
+    },
+    {
+      "id": "repo:rui314/mold",
+      "name": "rui314/mold",
+      "credit": "rui314 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/rui314/mold",
+      "project_urls": [
+        "https://github.com/alicealys/tpp-server-emulator/blob/992fca953c996a193b3673e5559f7f20b4a3d7d5/README.md",
+        "https://github.com/rui314/mold"
+      ],
+      "repository": "rui314/mold"
+    },
+    {
+      "id": "repo:ryochan7/ds4windows",
+      "name": "Ryochan7/DS4Windows",
+      "credit": "Ryochan7 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Ryochan7/DS4Windows",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Troubleshooting/",
+        "https://github.com/Ryochan7/DS4Windows"
+      ],
+      "repository": "Ryochan7/DS4Windows"
+    },
+    {
+      "id": "repo:secaproject/sbp_tool",
+      "name": "secaproject/SBP_tool",
+      "credit": "secaproject and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/secaproject/SBP_tool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/How_To_Find_&_Change_Audio_Files/",
+        "https://mgsvmoddingwiki.github.io/SPCH/",
+        "https://github.com/secaproject/SBP_tool"
+      ],
+      "repository": "secaproject/SBP_tool"
+    },
+    {
+      "id": "repo:sina1218/mgsv",
+      "name": "Sina1218/MGSV",
+      "credit": "Sina1218 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Sina1218/MGSV",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/Sina1218/MGSV"
+      ],
+      "repository": "Sina1218/MGSV"
+    },
+    {
+      "id": "repo:thehuntingparty/expl-map-tpp",
+      "name": "TheHuntingParty/EXPL-MAP-TPP",
+      "credit": "TheHuntingParty and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/TheHuntingParty/EXPL-MAP-TPP",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Custom_Locations_List/",
+        "https://mgsvmoddingwiki.github.io/Custom_Missions_List/",
+        "https://github.com/TheHuntingParty/EXPL-MAP-TPP"
+      ],
+      "repository": "TheHuntingParty/EXPL-MAP-TPP"
+    },
+    {
+      "id": "repo:thehuntingparty/tpp-pack-small",
+      "name": "TheHuntingParty/TPP-Pack-small",
+      "credit": "TheHuntingParty and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/TheHuntingParty/TPP-Pack-small",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Adding_'pack_small'_files_to_an_custom_map/",
+        "https://github.com/TheHuntingParty/TPP-Pack-small"
+      ],
+      "repository": "TheHuntingParty/TPP-Pack-small"
+    },
+    {
+      "id": "repo:thehuntingparty/tpp-sahelanthropus",
+      "name": "TheHuntingParty/TPP-sahelanthropus",
+      "credit": "TheHuntingParty and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/TheHuntingParty/TPP-sahelanthropus",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Custom_Locations_List/",
+        "https://mgsvmoddingwiki.github.io/Custom_Missions_List/",
+        "https://github.com/TheHuntingParty/TPP-sahelanthropus"
+      ],
+      "repository": "TheHuntingParty/TPP-sahelanthropus"
+    },
+    {
+      "id": "repo:thehuntingparty/tpp_shln_bossevents",
+      "name": "TheHuntingParty/Tpp_Shln_BossEvents",
+      "credit": "TheHuntingParty and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/TheHuntingParty/Tpp_Shln_BossEvents",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Custom_Locations_List/",
+        "https://mgsvmoddingwiki.github.io/Custom_Missions_List/",
+        "https://github.com/TheHuntingParty/Tpp_Shln_BossEvents"
+      ],
+      "repository": "TheHuntingParty/Tpp_Shln_BossEvents"
+    },
+    {
+      "id": "repo:themeldingwars/documentation",
+      "name": "themeldingwars/Documentation",
+      "credit": "themeldingwars and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/themeldingwars/Documentation",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://github.com/themeldingwars/Documentation"
+      ],
+      "repository": "themeldingwars/Documentation"
+    },
+    {
+      "id": "repo:tinmantex/foxengine.translationtool",
+      "name": "TinManTex/FoxEngine.TranslationTool",
+      "credit": "TinManTex and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/TinManTex/FoxEngine.TranslationTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Hash_Wrangling/",
+        "https://github.com/TinManTex/FoxEngine.TranslationTool"
+      ],
+      "repository": "TinManTex/FoxEngine.TranslationTool"
+    },
+    {
+      "id": "repo:tinmantex/gzstool",
+      "name": "TinManTex/GzsTool",
+      "credit": "TinManTex and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/TinManTex/GzsTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Hash_Wrangling/",
+        "https://github.com/mctrollin/fox_engine_mtar_tools_blender/blob/7fa90e589349ad4ba87102f0061a8d8d343a8bf4/README.md",
+        "https://github.com/TinManTex/GzsTool"
+      ],
+      "repository": "TinManTex/GzsTool"
+    },
+    {
+      "id": "repo:tinmantex/hashwrangler",
+      "name": "TinManTex/HashWrangler",
+      "credit": "TinManTex and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/TinManTex/HashWrangler",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Hash_Wrangling/",
+        "https://github.com/TinManTex/mgsv-lookup-strings/blob/0d50b08a0e348e270abfff1c97cebf4454ac2b83/Readme.txt",
+        "https://github.com/TinManTex/HashWrangler"
+      ],
+      "repository": "TinManTex/HashWrangler"
+    },
+    {
+      "id": "repo:tinmantex/ihhook",
+      "name": "IHHook source and developer notes",
+      "credit": "TinManTex; ZipfsLaw; project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/IHHook.md",
+      "project_urls": [
+        "https://github.com/TinManTex/IHHook",
+        "https://github.com/TinManTex/IHHook/blob/71801f1cb861a1e1ebad051be222e34a5355b4fc/README.md"
+      ],
+      "repository": "TinManTex/IHHook"
+    },
+    {
+      "id": "repo:tinmantex/infiniteheaven",
+      "name": "Infinite Heaven source",
+      "credit": "TinManTex and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/Infinite_Heaven.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Infinite_Heaven/",
+        "https://github.com/TinManTex/InfiniteHeaven",
+        "https://github.com/mctrollin/fox_engine_mtar_tools_blender/blob/7fa90e589349ad4ba87102f0061a8d8d343a8bf4/README.md"
+      ],
+      "repository": "TinManTex/InfiniteHeaven"
+    },
+    {
+      "id": "repo:tinmantex/mgsv-deminified-lua",
+      "name": "TinManTex/mgsv-deminified-lua",
+      "credit": "TinManTex and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/TinManTex/mgsv-deminified-lua",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Chimera_Weapon_System/",
+        "https://mgsvmoddingwiki.github.io/External_modding_resources/",
+        "https://mgsvmoddingwiki.github.io/FRT/",
+        "https://mgsvmoddingwiki.github.io/Lua/",
+        "https://mgsvmoddingwiki.github.io/Routes/"
+      ],
+      "repository": "TinManTex/mgsv-deminified-lua"
+    },
+    {
+      "id": "repo:tinmantex/mgsv-lookup-strings",
+      "name": "MGSV lookup dictionaries",
+      "credit": "TinManTex and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/TinManTex/mgsv-lookup-strings",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/External_modding_resources/",
+        "https://mgsvmoddingwiki.github.io/FRT/",
+        "https://mgsvmoddingwiki.github.io/GzsTool/",
+        "https://mgsvmoddingwiki.github.io/Hash_Wrangling/",
+        "https://mgsvmoddingwiki.github.io/LangTool/"
+      ],
+      "repository": "TinManTex/mgsv-lookup-strings"
+    },
+    {
+      "id": "repo:tinmantex/mgsv_buildmod",
+      "name": "TinManTex/mgsv_buildmod",
+      "credit": "TinManTex and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/TinManTex/mgsv_buildmod",
+      "project_urls": [
+        "https://github.com/TinManTex/InfiniteHeaven/blob/b0bfab4c0cebc7b8945c4efa4481020bedaec696/ReadMe.txt",
+        "https://github.com/TinManTex/mgsv_buildmod"
+      ],
+      "repository": "TinManTex/mgsv_buildmod"
+    },
+    {
+      "id": "repo:tinmantex/mockfox",
+      "name": "TinManTex/MockFox",
+      "credit": "TinManTex and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/TinManTex/MockFox",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/External_modding_resources/",
+        "https://mgsvmoddingwiki.github.io/LBA/",
+        "https://github.com/TinManTex/MockFox"
+      ],
+      "repository": "TinManTex/MockFox"
+    },
+    {
+      "id": "repo:tinmantex/mtartool",
+      "name": "TinManTex/MtarTool",
+      "credit": "TinManTex and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/TinManTex/MtarTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Hash_Wrangling/",
+        "https://github.com/TinManTex/MtarTool"
+      ],
+      "repository": "TinManTex/MtarTool"
+    },
+    {
+      "id": "repo:tinmantex/snakebite",
+      "name": "SnakeBite and MakeBite source",
+      "credit": "topher-au; TinManTex; Morbidslinky; ZipfsLaw; project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/SnakeBite_Mod_Manager.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/SnakeBite_Mod_Manager/",
+        "https://github.com/TinManTex/SnakeBite",
+        "https://github.com/TinManTex/SnakeBite/blob/c27745707777254b5a4842d78c6e3ba51d5bc80b/README.md"
+      ],
+      "repository": "TinManTex/SnakeBite"
+    },
+    {
+      "id": "repo:topher-au/snakebite",
+      "name": "topher-au/SnakeBite",
+      "credit": "topher-au and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/topher-au/SnakeBite",
+      "project_urls": [
+        "https://github.com/TinManTex/SnakeBite",
+        "https://github.com/TinManTex/SnakeBite/blob/c27745707777254b5a4842d78c6e3ba51d5bc80b/README.md",
+        "https://github.com/mctrollin/fox_engine_mtar_tools_blender/blob/7fa90e589349ad4ba87102f0061a8d8d343a8bf4/README.md",
+        "https://github.com/topher-au/SnakeBite"
+      ],
+      "repository": "topher-au/SnakeBite"
+    },
+    {
+      "id": "repo:unknown321/datfpk",
+      "name": "unknown321/datfpk",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/datfpk",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Lang_Files/",
+        "https://github.com/topics/mgsv",
+        "https://github.com/unknown321/datfpk"
+      ],
+      "repository": "unknown321/datfpk"
+    },
+    {
+      "id": "repo:unknown321/dynamite",
+      "name": "unknown321/dynamite",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/dynamite",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/External_modding_resources/",
+        "https://github.com/unknown321/dynamite"
+      ],
+      "repository": "unknown321/dynamite"
+    },
+    {
+      "id": "repo:unknown321/fuse",
+      "name": "fuse",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/fuse",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/External_modding_resources/",
+        "https://github.com/unknown321/mgsv_emulator",
+        "https://github.com/unknown321/mgsv_emulator/blob/adb0f91db5077ed9ad260b288e9bc76bd3d2805d/README.md",
+        "https://github.com/unknown321/fuse",
+        "https://github.com/unknown321/fuse/blob/4aa4c14c71d50b4045da8cf9f2a42335367866ea/README.md"
+      ],
+      "repository": "unknown321/fuse"
+    },
+    {
+      "id": "repo:unknown321/hashing",
+      "name": "unknown321/hashing",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/hashing",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/unknown321/hashing"
+      ],
+      "repository": "unknown321/hashing"
+    },
+    {
+      "id": "repo:unknown321/mgsmonsterguns",
+      "name": "unknown321/mgsmonsterguns",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/mgsmonsterguns",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Chimera_Weapon_System/",
+        "https://github.com/topics/mgsv",
+        "https://github.com/unknown321/mgsmonsterguns"
+      ],
+      "repository": "unknown321/mgsmonsterguns"
+    },
+    {
+      "id": "repo:unknown321/mgsv_emulator",
+      "name": "MGSV emulator (historical)",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/mgsv_emulator",
+      "project_urls": [
+        "https://github.com/unknown321/mgsv_emulator",
+        "https://github.com/alicealys/tpp-server-emulator/blob/992fca953c996a193b3673e5559f7f20b4a3d7d5/README.md",
+        "https://github.com/topics/mgsv"
+      ],
+      "repository": "unknown321/mgsv_emulator"
+    },
+    {
+      "id": "repo:unknown321/mgsv_lua_dump",
+      "name": "unknown321/mgsv_lua_dump",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/mgsv_lua_dump",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FoxKit-_StaticModel_and_GeoxCollisionFreeShape/",
+        "https://github.com/topics/mgsv",
+        "https://github.com/unknown321/mgsv_lua_dump"
+      ],
+      "repository": "unknown321/mgsv_lua_dump"
+    },
+    {
+      "id": "repo:unknown321/mgsv_nuke_watcher",
+      "name": "unknown321/mgsv_nuke_watcher",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/mgsv_nuke_watcher",
+      "project_urls": [
+        "https://github.com/unknown321/mgsv_emulator/blob/adb0f91db5077ed9ad260b288e9bc76bd3d2805d/README.md",
+        "https://github.com/topics/mgsv",
+        "https://github.com/unknown321/mgsv_nuke_watcher"
+      ],
+      "repository": "unknown321/mgsv_nuke_watcher"
+    },
+    {
+      "id": "repo:unknown321/mgsv_path_hasher",
+      "name": "unknown321/mgsv_path_hasher",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/mgsv_path_hasher",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/unknown321/mgsv_path_hasher"
+      ],
+      "repository": "unknown321/mgsv_path_hasher"
+    },
+    {
+      "id": "repo:unknown321/mgsv_research",
+      "name": "unknown321/mgsv_research",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/mgsv_research",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/unknown321/mgsv_research"
+      ],
+      "repository": "unknown321/mgsv_research"
+    },
+    {
+      "id": "repo:unknown321/mgsv_wiki",
+      "name": "unknown321/mgsv_wiki",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/mgsv_wiki",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/External_modding_resources/",
+        "https://github.com/topics/mgsv",
+        "https://github.com/unknown321/mgsv_wiki"
+      ],
+      "repository": "unknown321/mgsv_wiki"
+    },
+    {
+      "id": "repo:unknown321/mgsvdump",
+      "name": "unknown321/mgsvdump",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/mgsvdump",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Commands/",
+        "https://mgsvmoddingwiki.github.io/External_modding_resources/",
+        "https://mgsvmoddingwiki.github.io/Messages/",
+        "https://github.com/topics/mgsv",
+        "https://github.com/unknown321/mgsvdump"
+      ],
+      "repository": "unknown321/mgsvdump"
+    },
+    {
+      "id": "repo:unknown321/mgswaifus",
+      "name": "unknown321/mgswaifus",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/mgswaifus",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/unknown321/mgswaifus"
+      ],
+      "repository": "unknown321/mgswaifus"
+    },
+    {
+      "id": "repo:unknown321/squib",
+      "name": "unknown321/squib",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/squib",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Save_files/",
+        "https://github.com/topics/mgsv",
+        "https://github.com/unknown321/squib"
+      ],
+      "repository": "unknown321/squib"
+    },
+    {
+      "id": "repo:unknown321/tpp-tracking",
+      "name": "unknown321/tpp-tracking",
+      "credit": "unknown321 and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/unknown321/tpp-tracking",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/External_modding_resources/",
+        "https://github.com/unknown321/tpp-tracking"
+      ],
+      "repository": "unknown321/tpp-tracking"
+    },
+    {
+      "id": "repo:vgmstream/vgmstream",
+      "name": "vgmstream/vgmstream",
+      "credit": "vgmstream and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/vgmstream/vgmstream",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/How_To_Find_&_Change_Audio_Files/",
+        "https://github.com/bnnm/wwiser",
+        "https://github.com/bnnm/wwiser/blob/08e937b649bc7007c234bbd59e34a41d5eef3b38/README.md",
+        "https://github.com/vgmstream/vgmstream"
+      ],
+      "repository": "vgmstream/vgmstream"
+    },
+    {
+      "id": "repo:vgmstream/vgmstream-releases",
+      "name": "vgmstream/vgmstream-releases",
+      "credit": "vgmstream and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/vgmstream/vgmstream-releases",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/How_to_replace_sortie_prep_music_in_less_than_five_minutes/",
+        "https://github.com/vgmstream/vgmstream-releases"
+      ],
+      "repository": "vgmstream/vgmstream-releases"
+    },
+    {
+      "id": "repo:victordou/mgsv-cht-patch",
+      "name": "victordou/MGSV-CHT-Patch",
+      "credit": "victordou and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/victordou/MGSV-CHT-Patch",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/victordou/MGSV-CHT-Patch"
+      ],
+      "repository": "victordou/MGSV-CHT-Patch"
+    },
+    {
+      "id": "repo:wdfk-prog/mgsv-spp-soldier-progression-zeta",
+      "name": "wdfk-prog/mgsv-spp-soldier-progression-zeta",
+      "credit": "wdfk-prog and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/wdfk-prog/mgsv-spp-soldier-progression-zeta",
+      "project_urls": [
+        "https://github.com/topics/mgsv",
+        "https://github.com/wdfk-prog/mgsv-spp-soldier-progression-zeta"
+      ],
+      "repository": "wdfk-prog/mgsv-spp-soldier-progression-zeta"
+    },
+    {
+      "id": "repo:x64dbg/x64dbg",
+      "name": "x64dbg/x64dbg",
+      "credit": "x64dbg and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/x64dbg/x64dbg",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Ghidra_tips/",
+        "https://github.com/x64dbg/x64dbg"
+      ],
+      "repository": "x64dbg/x64dbg"
+    },
+    {
+      "id": "repo:yazed0071/v_framework",
+      "name": "Yazed0071/V_Framework",
+      "credit": "Yazed0071 and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/V_Framework.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Links_to_Useful_Github_Repos/",
+        "https://mgsvmoddingwiki.github.io/V_Framework/",
+        "https://github.com/Yazed0071/V_Framework"
+      ],
+      "repository": "Yazed0071/V_Framework"
+    },
+    {
+      "id": "repo:youarebritish/foxkit",
+      "name": "FoxKit (youarebritish)",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/FoxKit.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Creating_a_basic_custom_route/",
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://mgsvmoddingwiki.github.io/FoxKit-_Installing_Import_Files_and_Terrain/",
+        "https://mgsvmoddingwiki.github.io/FoxKit/",
+        "https://mgsvmoddingwiki.github.io/FRT/"
+      ],
+      "repository": "youarebritish/FoxKit"
+    },
+    {
+      "id": "repo:youarebritish/foxkitprototype",
+      "name": "youarebritish/FoxKitPrototype",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/youarebritish/FoxKitPrototype",
+      "project_urls": [
+        "https://github.com/youarebritish",
+        "https://github.com/youarebritish/FoxKitPrototype"
+      ],
+      "repository": "youarebritish/FoxKitPrototype"
+    },
+    {
+      "id": "repo:youarebritish/foxlib",
+      "name": "youarebritish/FoxLib",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/youarebritish/FoxLib",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://mgsvmoddingwiki.github.io/Route/",
+        "https://github.com/youarebritish",
+        "https://github.com/youarebritish/FoxLib"
+      ],
+      "repository": "youarebritish/FoxLib"
+    },
+    {
+      "id": "repo:youarebritish/foxlibdumper",
+      "name": "youarebritish/FoxLibDumper",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/youarebritish/FoxLibDumper",
+      "project_urls": [
+        "https://github.com/youarebritish",
+        "https://github.com/youarebritish/FoxLibDumper"
+      ],
+      "repository": "youarebritish/FoxLibDumper"
+    },
+    {
+      "id": "repo:youarebritish/foxlibexamples",
+      "name": "youarebritish/FoxLibExamples",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/youarebritish/FoxLibExamples",
+      "project_urls": [
+        "https://github.com/youarebritish",
+        "https://github.com/youarebritish/FoxLibExamples"
+      ],
+      "repository": "youarebritish/FoxLibExamples"
+    },
+    {
+      "id": "repo:youarebritish/htretool",
+      "name": "youarebritish/HtreTool",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/youarebritish/HtreTool",
+      "project_urls": [
+        "https://github.com/youarebritish",
+        "https://github.com/youarebritish/HtreTool"
+      ],
+      "repository": "youarebritish/HtreTool"
+    },
+    {
+      "id": "repo:youarebritish/lbatool",
+      "name": "youarebritish/LbaTool",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/youarebritish/LbaTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/FoxKit-_TppSharedGimmickData/",
+        "https://github.com/youarebritish",
+        "https://github.com/youarebritish/LbaTool"
+      ],
+      "repository": "youarebritish/LbaTool"
+    },
+    {
+      "id": "repo:youarebritish/luminaire",
+      "name": "youarebritish/Luminaire",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/youarebritish/Luminaire",
+      "project_urls": [
+        "https://github.com/youarebritish",
+        "https://github.com/youarebritish/Luminaire"
+      ],
+      "repository": "youarebritish/Luminaire"
+    },
+    {
+      "id": "repo:youarebritish/mgsv-lookup-strings",
+      "name": "youarebritish/mgsv-lookup-strings",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/youarebritish/mgsv-lookup-strings",
+      "project_urls": [
+        "https://github.com/youarebritish",
+        "https://github.com/youarebritish/mgsv-lookup-strings"
+      ],
+      "repository": "youarebritish/mgsv-lookup-strings"
+    },
+    {
+      "id": "repo:youarebritish/mgsv-qar-dictionary-project",
+      "name": "youarebritish/MGSV-QAR-Dictionary-Project",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/youarebritish/MGSV-QAR-Dictionary-Project",
+      "project_urls": [
+        "https://github.com/youarebritish",
+        "https://github.com/youarebritish/MGSV-QAR-Dictionary-Project"
+      ],
+      "repository": "youarebritish/MGSV-QAR-Dictionary-Project"
+    },
+    {
+      "id": "repo:youarebritish/twpftool",
+      "name": "youarebritish/TwpfTool",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/youarebritish/TwpfTool",
+      "project_urls": [
+        "https://github.com/youarebritish",
+        "https://github.com/youarebritish/TwpfTool"
+      ],
+      "repository": "youarebritish/TwpfTool"
+    },
+    {
+      "id": "repo:youarebritish/vfxtool",
+      "name": "youarebritish/VfxTool",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/youarebritish/VfxTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/AI/mgs/mgs_vfx/",
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://mgsvmoddingwiki.github.io/FoxKit-_TppPrimRiverModel_TppWaterBounding_TppTextureLoader_and_FxLocatorData/",
+        "https://mgsvmoddingwiki.github.io/VFX/",
+        "https://github.com/youarebritish"
+      ],
+      "repository": "youarebritish/VfxTool"
+    },
+    {
+      "id": "repo:your401kplan/misc-lua",
+      "name": "Your401kPlan/Misc-Lua",
+      "credit": "Your401kPlan and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/Your401kPlan/Misc-Lua",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Enabling_CS_Weapons/",
+        "https://github.com/Your401kPlan/Misc-Lua"
+      ],
+      "repository": "Your401kPlan/Misc-Lua"
+    },
+    {
+      "id": "repo:zerokilo/xexloaderwv",
+      "name": "zeroKilo/XEXLoaderWV",
+      "credit": "zeroKilo and project contributors",
+      "attribution_type": "repository owner/maintainers; not a complete authorship claim",
+      "source": "https://github.com/zeroKilo/XEXLoaderWV",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Ghidra_tips/",
+        "https://github.com/zeroKilo/XEXLoaderWV"
+      ],
+      "repository": "zeroKilo/XEXLoaderWV"
+    },
+    {
+      "id": "repo:zipfslaw/zeta",
+      "name": "Zeta framework source",
+      "credit": "ZipfsLaw and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/Zeta.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Zeta/",
+        "https://github.com/topics/mgsv",
+        "https://github.com/ZipfsLaw/Zeta"
+      ],
+      "repository": "ZipfsLaw/Zeta"
+    },
+    {
+      "id": "sideop-companion",
+      "name": "SideOp Companion",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/SideOp_Companion.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/SideOp_Companion/",
+        "https://github.com/JosephZoeller/SOC/",
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/571"
+      ],
+      "repository": "JosephZoeller/SOC"
+    },
+    {
+      "id": "snakebite-mod-manager",
+      "name": "SnakeBite Mod Manager",
+      "credit": "topher-au; TinManTex; Morbidslinky; ZipfsLaw; project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/SnakeBite_Mod_Manager.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/SnakeBite_Mod_Manager/",
+        "https://github.com/TinManTex/SnakeBite",
+        "http://www.nexusmods.com/metalgearsolidvtpp/mods/106"
+      ],
+      "repository": "TinManTex/SnakeBite"
+    },
+    {
+      "id": "spchtool",
+      "name": "SpchTool",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/kapuragu/SpchTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/SPCH/",
+        "https://github.com/kapuragu/SpchTool"
+      ],
+      "repository": "kapuragu/SpchTool"
+    },
+    {
+      "id": "steam:547190360",
+      "name": "MGSV TPP Model File Locations (Steam guide)",
+      "credit": "Detective Sadist (guide); Kaz also credited for a model-location contribution",
+      "attribution_type": "named guide creator and upstream acknowledgement",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=547190360",
+      "project_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=547190360"
+      ],
+      "repository": null
+    },
+    {
+      "id": "steam:883495538",
+      "name": "MGSV model collection for Source Filmmaker",
+      "credit": "pm58790 (collection); Smug Bastard, LowRider, Majora, mars (listed item creators); original game authors retain asset credit",
+      "attribution_type": "collection curator and listed item creators; reference only",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=883495538",
+      "project_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=883495538"
+      ],
+      "repository": null
+    },
+    {
+      "id": "stptool",
+      "name": "StpTool",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/kapuragu/StpTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Animation/",
+        "https://github.com/kapuragu/StpTool"
+      ],
+      "repository": "kapuragu/StpTool"
+    },
+    {
+      "id": "subptool",
+      "name": "SubpTool",
+      "credit": "Atvaark and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/LangTool.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/SubpTool/",
+        "https://github.com/Atvaark/FoxEngine.TranslationTool",
+        "https://github.com/Atvaark/FoxEngine.TranslationTool/releases"
+      ],
+      "repository": "Atvaark/FoxEngine.TranslationTool"
+    },
+    {
+      "id": "tcvptool",
+      "name": "TcvpTool",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/kapuragu/TcvpTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Formats/",
+        "https://github.com/kapuragu/TcvpTool"
+      ],
+      "repository": "kapuragu/TcvpTool"
+    },
+    {
+      "id": "texture-aggregator",
+      "name": "Texture Aggregator",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "wiki creator credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/File_Monolith.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/File_Monolith/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "topic:mgsv",
+      "name": "MGSV GitHub topic",
+      "credit": "Individual repository authors in the MGSV topic; GitHub hosts discovery",
+      "attribution_type": "discovery index, not one tool author",
+      "source": "https://github.com/topics/mgsv",
+      "project_urls": [
+        "https://github.com/topics/mgsv"
+      ],
+      "repository": null
+    },
+    {
+      "id": "traptool",
+      "name": "TrapTool",
+      "credit": "kapuragu and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/kapuragu/TrapTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/TRAP/",
+        "https://github.com/kapuragu/TrapTool"
+      ],
+      "repository": "kapuragu/TrapTool"
+    },
+    {
+      "id": "tutorial:mgsv-lua-nexus139",
+      "name": "MGSV Lua Modding Tutorial",
+      "credit": "The Iron Rose (creator); Vazeron1 (uploader)",
+      "attribution_type": "verified publisher credit",
+      "source": "https://www.nexusmods.com/metalgearsolidvtpp/mods/139",
+      "project_urls": [
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/139"
+      ],
+      "repository": null
+    },
+    {
+      "id": "using-fmdl-studio-with-blender",
+      "name": "Using FMDL Studio with Blender",
+      "credit": "MGSV Modding Wiki writers, editors and guide contributors",
+      "attribution_type": "collective documentation credit; individual page history remains upstream",
+      "source": "https://mgsvmoddingwiki.github.io/Using_FMDL_Studio_with_Blender/",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Using_FMDL_Studio_with_Blender/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "v-framework",
+      "name": "V Framework",
+      "credit": "Yazed0071 and project contributors",
+      "attribution_type": "wiki creator credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/V_Framework.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/V_Framework/",
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/2486",
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/2486?tab=files"
+      ],
+      "repository": null
+    },
+    {
+      "id": "vfxtool",
+      "name": "VfxTool",
+      "credit": "youarebritish and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/youarebritish/VfxTool",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/VFX/",
+        "https://github.com/youarebritish/VfxTool"
+      ],
+      "repository": "youarebritish/VfxTool"
+    },
+    {
+      "id": "wiki:bobdoleowndu/fmdl-studio-v2",
+      "name": "FMDL Studio V2 author guides",
+      "credit": "BobDoleOwndU; Joey35233; youarebritish (sai); Tex; Highflex; revel8n; Jayveerk; cra0kalo; HeartlessSeph",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/BobDoleOwndU/FMDL-Studio-v2/blob/d580b94215cc007df6c38bdb0bfce6a0f30e4701/README.md",
+      "project_urls": [
+        "https://github.com/BobDoleOwndU/FMDL-Studio-v2/wiki"
+      ],
+      "repository": "BobDoleOwndU/FMDL-Studio-v2"
+    },
+    {
+      "id": "wiki:morbidslinky/soc",
+      "name": "SideOp Companion guides",
+      "credit": "Morbidslinky and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/SideOp_Companion.md",
+      "project_urls": [
+        "https://github.com/morbidslinky/SOC/wiki"
+      ],
+      "repository": "morbidslinky/SOC"
+    },
+    {
+      "id": "working-with-dds-files",
+      "name": "Working With DDS Files",
+      "credit": "MGSV Modding Wiki writers, editors and guide contributors",
+      "attribution_type": "collective documentation credit; individual page history remains upstream",
+      "source": "https://mgsvmoddingwiki.github.io/Working_With_DDS_Files/",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Working_With_DDS_Files/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "wtv",
+      "name": "WTV",
+      "credit": "NVIDIA and contributors",
+      "attribution_type": "publisher / documentation / archive credit",
+      "source": "https://developer.nvidia.com/legacy-texture-tools",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Working_With_DDS_Files/",
+        "https://developer.nvidia.com/legacy-texture-tools",
+        "https://web.archive.org/web/20170720031656/https://developer.nvidia.com/sites/default/files/akamai/tools/files/Windows_Texture_Viewer_v089b.rar"
+      ],
+      "repository": null
+    },
+    {
+      "id": "wwise",
+      "name": "Wwise",
+      "credit": "Audiokinetic (Wwise); linked upload/archive hosts are not the software author",
+      "attribution_type": "software publisher credit",
+      "source": "https://www.audiokinetic.com/",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Wwise/"
+      ],
+      "repository": null
+    },
+    {
+      "id": "zeta",
+      "name": "Zeta",
+      "credit": "ZipfsLaw and project contributors",
+      "attribution_type": "named project credit",
+      "source": "https://github.com/mgsvmoddingwiki/mgsvmoddingwiki.github.io/blob/2326cdf753a6fcfefb1867dd66ed97a078d4d114/wiki/Zeta.md",
+      "project_urls": [
+        "https://mgsvmoddingwiki.github.io/Zeta/",
+        "https://www.zetamgsv.com",
+        "https://www.nexusmods.com/metalgearsolidvtpp/mods/1309"
+      ],
+      "repository": "ZipfsLaw/Zeta"
+    }
+  ]
+}

@@ -17,19 +17,29 @@
       "sha256": "898cce9e06df51b1c6983ca867f61249d01e55b2d0bb4fece414b47baa9e7a14"
     },
     {
+      "path": "additional-resources.json",
+      "bytes": 24459,
+      "sha256": "63f1d46a76f3c2cda2e90b7876c931ee5a7c54ef4d0e230713b14dc13748ecc3"
+    },
+    {
       "path": "ADDITIONAL_RESOURCES.md",
       "bytes": 36748,
       "sha256": "c5a43479401f8edb1d4c31beb9f96854f0d8f1dd7fb5c3c3e33fed12d095e4e9"
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 1064,
-      "sha256": "6c7e84e692017f584beac88d60bcb6128cc579951aefb0496720525e72c5731f"
+      "bytes": 1432,
+      "sha256": "045e73fecbfda5f5d9833ac8b06531fb89ad177aa131ec8175e1affcc37a3233"
+    },
+    {
+      "path": "config.example.json",
+      "bytes": 162,
+      "sha256": "9311a3cd65d49e93eeb2bedb225491af6e30e19c7e82b6826d9e56be8d378ddf"
     },
     {
       "path": "CONTRIBUTING.md",
-      "bytes": 2041,
-      "sha256": "ec656b1b6fb5143703b9ab4226bf1dbcf65d6f5e07bc6f59f0f03df0ec84afd1"
+      "bytes": 2493,
+      "sha256": "e87258e02a7fb7ba14669de221fb5b7030129233bf6e2a5a348dc36f440900dc"
     },
     {
       "path": "CONTRIBUTORS.md",
@@ -38,8 +48,33 @@
     },
     {
       "path": "CREDITS.md",
-      "bytes": 3356,
-      "sha256": "582f7a4c0be7d546cbe6e960ddfb918662fa5b577442eb2a22cb26ba13f953b3"
+      "bytes": 15056,
+      "sha256": "37ee6002ea3f39b562038e2c82ca61a3ffe128ebd417a4d361277a73bff59722"
+    },
+    {
+      "path": "docs/SAFETY.md",
+      "bytes": 1907,
+      "sha256": "3e1be88075e9a7f3d45dd50cea5ef0fd0e40a40a099ad06ca5005d6df2e33e86"
+    },
+    {
+      "path": "docs/tool-attribution.json",
+      "bytes": 114557,
+      "sha256": "7b8d3ca65fc3d441240c58a7b3992b168c47d921ab52cc9f0e25a2e6792fd9ce"
+    },
+    {
+      "path": "docs/TOOL-AUTHORS.md",
+      "bytes": 48114,
+      "sha256": "c67605477c98ab7bc32b952269115b11602cb3165b2483c1dfe16cd7638d80eb"
+    },
+    {
+      "path": "docs/TOOLS.md",
+      "bytes": 4131,
+      "sha256": "94d8c6776f63acf209d9fb3be52f80a6b7692f9552ea0eddbafdf34551ce5e1e"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 1370,
+      "sha256": "3c59f91523c3cf04a7290872be9fe2cecf4aba1aae3cab71dd86dbc4dc406a3d"
     },
     {
       "path": "INSTALL.md",
@@ -57,64 +92,14 @@
       "sha256": "274be9278835ba8d617cde12439d6d04a22726b88c4c2bca31fcf23bf846d964"
     },
     {
-      "path": "MGSV_TOOL_REFERENCE.md",
-      "bytes": 97892,
-      "sha256": "9cd45379d2934169fd910ae1caffe9656b0f5fce398f8bff131d43e6aa99b984"
-    },
-    {
-      "path": "README.md",
-      "bytes": 9238,
-      "sha256": "584f34271f698b1622fa3277bcd42aebf210f598b68ca01a7df331adc352675b"
-    },
-    {
-      "path": "ROADMAP.md",
-      "bytes": 880,
-      "sha256": "781516f162cd8dea87c594df80c5ae829f0c4001db9d59c6adde34f3f65b0baa"
-    },
-    {
-      "path": "TOOL_CATALOG.md",
-      "bytes": 41327,
-      "sha256": "e69f1d3c5286f87ce5d55919a8affc38f6587a374510a73066421a24ec5c4643"
-    },
-    {
-      "path": "TOOL_COVERAGE.md",
-      "bytes": 11266,
-      "sha256": "38a7ad4a09951c2d82150326072c240070a20d7117b1b1167d366f2d5054040d"
-    },
-    {
-      "path": "VERSION",
-      "bytes": 7,
-      "sha256": "653d69a4116e95011cd5a565181a4967e2e300deb54e793a1e35066f8e3a4b28"
-    },
-    {
-      "path": "additional-resources.json",
-      "bytes": 24459,
-      "sha256": "63f1d46a76f3c2cda2e90b7876c931ee5a7c54ef4d0e230713b14dc13748ecc3"
-    },
-    {
-      "path": "config.example.json",
-      "bytes": 162,
-      "sha256": "9311a3cd65d49e93eeb2bedb225491af6e30e19c7e82b6826d9e56be8d378ddf"
-    },
-    {
-      "path": "docs/SAFETY.md",
-      "bytes": 1907,
-      "sha256": "3e1be88075e9a7f3d45dd50cea5ef0fd0e40a40a099ad06ca5005d6df2e33e86"
-    },
-    {
-      "path": "docs/TOOLS.md",
-      "bytes": 4131,
-      "sha256": "94d8c6776f63acf209d9fb3be52f80a6b7692f9552ea0eddbafdf34551ce5e1e"
-    },
-    {
-      "path": "docs/VALIDATION.md",
-      "bytes": 1370,
-      "sha256": "3c59f91523c3cf04a7290872be9fe2cecf4aba1aae3cab71dd86dbc4dc406a3d"
-    },
-    {
       "path": "mcp.client.example.json",
       "bytes": 207,
       "sha256": "3475a772dd7f5454c34c5e2384a3aa0a0fa03dca46b82b17fc007b3e9f4df2b1"
+    },
+    {
+      "path": "MGSV_TOOL_REFERENCE.md",
+      "bytes": 97892,
+      "sha256": "9cd45379d2934169fd910ae1caffe9656b0f5fce398f8bff131d43e6aa99b984"
     },
     {
       "path": "pyproject.toml",
@@ -122,9 +107,19 @@
       "sha256": "c0b0a685992026331795c209c8ffbb73d89fa4732ed2a2f07f4eedcd6fb3a172"
     },
     {
+      "path": "README.md",
+      "bytes": 9785,
+      "sha256": "245fd5c617e7ceeff341c10203ca53da9f203256317437d44da9b63f4050648f"
+    },
+    {
       "path": "requirements.lock",
       "bytes": 674,
       "sha256": "06de59aca59a978bd4b0216f23328cb139933706c208ec86e03e359369a2f55d"
+    },
+    {
+      "path": "ROADMAP.md",
+      "bytes": 880,
+      "sha256": "781516f162cd8dea87c594df80c5ae829f0c4001db9d59c6adde34f3f65b0baa"
     },
     {
       "path": "scripts/export_catalog.py",
@@ -250,6 +245,22 @@
       "path": "tool-releases.json",
       "bytes": 5919,
       "sha256": "24d7c279da85379f580d55f5152c73d76c9ea6ddd1d2ca9006f08b50383a0946"
+    },
+    {
+      "path": "TOOL_CATALOG.md",
+      "bytes": 41327,
+      "sha256": "e69f1d3c5286f87ce5d55919a8affc38f6587a374510a73066421a24ec5c4643"
+    },
+    {
+      "path": "TOOL_COVERAGE.md",
+      "bytes": 11266,
+      "sha256": "38a7ad4a09951c2d82150326072c240070a20d7117b1b1167d366f2d5054040d"
+    },
+    {
+      "path": "VERSION",
+      "bytes": 7,
+      "sha256": "653d69a4116e95011cd5a565181a4967e2e300deb54e793a1e35066f8e3a4b28"
     }
-  ]
+  ],
+  "revision_note": "Expanded attribution documentation after v0.3.2; frozen tag unchanged."
 }
