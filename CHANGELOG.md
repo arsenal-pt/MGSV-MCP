@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased - reviewed animation references
+
+Add two credited, pinned animation-guide/description references, optional reviewed-source provenance for curated web notes, an `animations` navigation workflow and focused lookup/backward-compatibility tests. A new reference note explains directory types, archive/member matching and player-versus-NPC evidence. Source summaries remain authored and bounded; no game files, full description lists or new converter behavior. Public runtime version0.3.2 and the existingv0.3.2 tag stay unchanged. Existing connections see rebuilt search data; changed Python workflows load on their next reconnect.
+
 ## Unreleased — expanded community attribution
 
 Added prominent README acknowledgement, direct tool-by-tool creator/maintainer credits, preserved FMDL Studio/SnakeBite/IHHook collaborator lists, and an evidence-labeled211-entry attribution index. Contributions must preserve and update upstream attribution. Runtime0.3.2 and the existingv0.3.2tag remain unchanged.

@@ -45,6 +45,14 @@ def sources(config):
                 raise ValueError("Web references require an HTTPS source URL.")
             if not item.get("reviewed_at") or not item.get("coverage_note"):
                 raise ValueError("Web references need a review date and explicit coverage note.")
+            reviewed_revision = item.get("reviewed_revision")
+            reviewed_source = item.get("reviewed_source_url")
+            if bool(reviewed_revision) != bool(reviewed_source):
+                raise ValueError("Reviewed revision and source URL must be supplied together.")
+            if reviewed_source:
+                source_url = urlsplit(reviewed_source)
+                if source_url.scheme != "https" or not source_url.netloc:
+                    raise ValueError("Reviewed source URLs require HTTPS.")
         else:
             raise ValueError("Unknown source kind: " + kind)
         for path in item.get("documents", []):
@@ -211,7 +219,7 @@ def inventory(config):
         snapshot = cached(config, item["id"])
         result.append(item | {"cached": bool(snapshot), "retrieved_at": snapshot.get("retrieved_at"),
                               "coverage": "curated-reference" if item["kind"] == "web-reference" else "cached-upstream" if snapshot else "pending",
-                              "revision": snapshot.get("revision"), "metadata": snapshot.get("metadata"),
+                              "revision": (item.get("reviewed_revision") if item["kind"] == "web-reference" else snapshot.get("revision")), "metadata": snapshot.get("metadata"),
                               "cached_documents": len(snapshot.get("documents", [])),
                               "discovered_repositories": len(snapshot.get("repositories", [])),
                               "truncated": snapshot.get("truncated", False),
@@ -223,13 +231,18 @@ def documents(config):
     result = []
     for item in sources(config):
         snapshot = cached(config, item["id"])
-        revision = snapshot.get("revision")
+        # Curated web notes cite the reviewed source, not an unrelated cache or
+        # the wiki revision. Legacy references may still have no pinned revision.
+        revision = (item.get("reviewed_revision") if item["kind"] == "web-reference"
+                    else snapshot.get("revision"))
         retrieved = snapshot.get("retrieved_at")
         meta = snapshot.get("metadata", {})
         body = f"# {item['name']}\n\n{item['summary']}\n\nSource: {item['url']}\n"
         body += f"\nSource kind: {item['kind']}\nOrigin: {item.get('origin', 'local manifest')}\n"
         if item["kind"] == "web-reference":
             body += f"Reviewed: {item['reviewed_at']}\nCoverage: {item['coverage_note']}\n"
+            if revision:
+                body += f"Reviewed upstream revision: {revision}\nReviewed source: {item['reviewed_source_url']}\n"
         if snapshot:
             body += f"Retrieved: {retrieved}\nRevision: {revision or 'discovery snapshot; no single commit'}\n"
         if meta:
@@ -255,7 +268,8 @@ def documents(config):
                     "sha256": hashlib.sha256(body.encode()).hexdigest(), "source_revision": revision,
                     "source_url": url, "retrieved_at": retrieved, "source_id": item["id"]}
         summary = document("resource:" + item["id"], item["name"], body, item["url"], "resource")
-        summary["source_url"] = summary_url
+        summary["source_url"] = (item.get("reviewed_source_url", summary_url)
+                                 if item["kind"] == "web-reference" else summary_url)
         result.append(summary)
         for doc in snapshot.get("documents", []):
             result.append(document("source:" + item["id"] + "/" + doc["path"],

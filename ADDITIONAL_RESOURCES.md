@@ -2,6 +2,10 @@
 
 # Additional MGSV resources
 
+## 15 October 2026 animation addition
+
+The historical counts below precede two new reviewed web references: `choc-adding-player-motions` and `bobdoleowndu-bossquiet2-layers-notes`. They provide concise authored summaries and pinned source citations, with separate choc/chocmake and BobDoleOwndU credits. Search or fetch `resource:<id>` after rebuilding the index. See [the animation reference note](docs/ANIMATION-REFERENCE.md). No full guide or 122-entry description list is mirrored, and no native behavior is established by indexing them.
+
 The supplied repositories and tool references are preserved in `additional-resources.json`, together with reviewed publisher sources and author wikis. This file describes the locally cached snapshot; use `list_additional_sources` for current retrieval times and coverage.
 
 Search the combined corpus with `search` or `search_wiki`. Fetch a source summary using `resource:<source-id>`. `repository_source` reads any catalogued repository at a cited commit; it does not compile or run that project.

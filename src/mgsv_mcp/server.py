@@ -148,7 +148,7 @@ def create_server(config=None):
 
     @tool(annotations=READ)
     def modding_workflow(topic:str="") -> dict:
-        """Get a sourced workflow for lua, textures, models, maps, audio, localization, native-code, tool-development or packaging. Empty topic lists choices."""
+        """Get a sourced workflow for animations, lua, textures, models, maps, audio, localization, native-code, tool-development or packaging. Empty topic lists choices."""
         return workflow(kb,topic)
 
     @tool(annotations=ToolAnnotations(readOnlyHint=False,destructiveHint=False,idempotentHint=True,openWorldHint=True))

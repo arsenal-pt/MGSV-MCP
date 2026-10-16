@@ -529,6 +529,59 @@
       ],
       "reviewed_at": "2026-10-10",
       "coverage_note": "Reviewed source description and curated integration notes; source page is linked, not mirrored. Refresh preserves this review date and does not scrape the site."
+    },
+    {
+      "id": "choc-adding-player-motions",
+      "kind": "web-reference",
+      "name": "Adding Player Motions (choc / chocmake)",
+      "url": "https://chocmake.github.io/guides/mgsv-adding-player-motions/#usage",
+      "origin": "user-animation-reference-review-2026-10-15",
+      "tags": [
+        "Animation",
+        "MTAR",
+        "GANI",
+        "Infinite Heaven",
+        "Player Motions",
+        "Guides"
+      ],
+      "summary": "Authored summary of choc / chocmake's player-motion guide: this.packages identifies FPK load paths; this.motions identifies GANI playback paths. Runtime GANI references use a leading /Assets/ and .gani extension. Keep those separately from extensionless extraction/hash names. Motion groups organize sequences but do not prove paired contact or NPC compatibility. Infinite Heaven uses its Motions/Play motion and configurable Quick Menu; unknown321's alternative controls are a separate setup. Hold may loop a supported clip or freeze another on its last frame. MtarTool -n records an extraction's order, but even an otherwise unchanged repack can reorder entries. Keep archive hash, tool/dictionary revision, exact member path/hash and original ordinal together. Check loaded FPKs, paths/groups, dictionaries and XML/member consistency when troubleshooting; successful packing can still use alternate hashed names. These are source-documented player workflows, not new gameplay tests or an established base-versus-layer decoding contract.",
+      "related": [
+        "https://github.com/chocmake/chocmake.github.io/blob/2301912bd8694e5abd81044b0e9b15c811cb5772/guides/mgsv-adding-player-motions/index.html#L924",
+        "https://github.com/chocmake/chocmake.github.io/blob/2301912bd8694e5abd81044b0e9b15c811cb5772/guides/mgsv-adding-player-motions/index.html#L1151",
+        "https://github.com/chocmake/chocmake.github.io/blob/2301912bd8694e5abd81044b0e9b15c811cb5772/guides/mgsv-adding-player-motions/index.html#L1458",
+        "https://github.com/chocmake/chocmake.github.io/blob/2301912bd8694e5abd81044b0e9b15c811cb5772/guides/mgsv-adding-player-motions/index.html#L1686",
+        "https://github.com/chocmake/chocmake.github.io/blob/2301912bd8694e5abd81044b0e9b15c811cb5772/guides/mgsv-adding-player-motions/index.html#L1738",
+        "https://chocmake.github.io/guides/mgsv-adding-player-motions/#resources"
+      ],
+      "reviewed_at": "2026-10-15",
+      "reviewed_revision": "2301912bd8694e5abd81044b0e9b15c811cb5772",
+      "reviewed_source_url": "https://github.com/chocmake/chocmake.github.io/blob/2301912bd8694e5abd81044b0e9b15c811cb5772/guides/mgsv-adding-player-motions/index.html",
+      "coverage_note": "Primary guide/source reviewed at pinned commit; concise authored summary, no full guide mirrored. Guide last edited 2026-06-05. The guide credits animation-note contributors separately. No native player or NPC test performed; controls depend on the selected mod/configuration."
+    },
+    {
+      "id": "bobdoleowndu-bossquiet2-layers-notes",
+      "kind": "web-reference",
+      "name": "BossQuiet2_layers GANI descriptions (BobDoleOwndU)",
+      "url": "https://chocmake.github.io/guides/mgsv-adding-player-motions/files/gani-descriptions/BobDoleOwndU/BossQuiet2_layers.txt",
+      "origin": "user-animation-reference-review-2026-10-15",
+      "tags": [
+        "Animation",
+        "MTAR",
+        "GANI",
+        "File Locations",
+        "Community Descriptions"
+      ],
+      "summary": "BobDoleOwndU's description reference is credited in choc / chocmake's resource table. Its own source chain is chunk2.dat > Assets/tpp/pack/mission2/story/s10050/s10050_area.fpk > Assets/tpp/motion/mtar/bossquiet2/BossQuiet2_layers.mtar. This is a logical source-container chain, not a local installation or deployment directory. Match the exact archive/version and GANI path/hash before attaching a description to a catalogue entry. Ordinal IDs alone are insufficient. The supplied note has no archive or clip payload hashes; its filename does not establish a layer/base animation contract. The list is linked rather than copied. Current Immersive Mother Base CQC/LMG catalogue matching is recorded in that project's research; this source does not describe every animation or imply NPC compatibility.",
+      "related": [
+        "https://github.com/chocmake/chocmake.github.io/blob/2301912bd8694e5abd81044b0e9b15c811cb5772/guides/mgsv-adding-player-motions/files/gani-descriptions/BobDoleOwndU/BossQuiet2_layers.txt",
+        "https://github.com/chocmake/chocmake.github.io/blob/2301912bd8694e5abd81044b0e9b15c811cb5772/guides/mgsv-adding-player-motions/index.html#L1589",
+        "https://github.com/chocmake/chocmake.github.io/blob/2301912bd8694e5abd81044b0e9b15c811cb5772/guides/mgsv-adding-player-motions/index.html#L1738",
+        "https://github.com/arsenal-pt/immersive-mother-base/tree/main/research/animation-library"
+      ],
+      "reviewed_at": "2026-10-15",
+      "reviewed_revision": "2301912bd8694e5abd81044b0e9b15c811cb5772",
+      "reviewed_source_url": "https://github.com/chocmake/chocmake.github.io/blob/2301912bd8694e5abd81044b0e9b15c811cb5772/guides/mgsv-adding-player-motions/files/gani-descriptions/BobDoleOwndU/BossQuiet2_layers.txt",
+      "coverage_note": "Primary note and guide attribution reviewed. Notes blob cc849df018389da78f0d5f76f224eedec174d63e; 122 path/index mappings. Directory header is evidence only for this source archive. No description-list redistribution, source extraction, binary-equivalence claim or native test."
     }
   ]
 }

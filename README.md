@@ -65,6 +65,8 @@ Use the generated **`mcp.client.json`** entry in a stdio MCP client, or adapt [m
 
 If using Codex with its CLI already installed, `.\setup.ps1 -SkipTools -RegisterCodex` registers the server as `mgsv-modding`. No Codex account/configuration is included in this repository.
 
+Animation lookup: read [animation references and provenance](docs/ANIMATION-REFERENCE.md) for credited player-motion lessons, archive-specific descriptions and the `animations` workflow. The references are searchable after index rebuild; no full guide or raw animation list is bundled.
+
 Example requests:
 
 > Use mgsv-modding to find the source documentation for StaticModel and cite its revision.

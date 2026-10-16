@@ -65,6 +65,10 @@ These MCP adapters wrap separately obtained upstream programs. Credit for the co
 - **Joey35233 and youarebritish:** their profile/project discovery feeds are credited to the respective creators and project contributors. Discovery does not establish complete authorship or imply endorsement.
 - Guides, archived references, sample code and community corrections remain credited to their authors. Where a historical source omits the creator, the index says so instead of inventing a person. Attribution corrections and additional contributor names are welcome through issues/PRs.
 
+## Animation guide and description references
+
+**choc / chocmake** authored [Adding Player Motions](https://github.com/chocmake/chocmake.github.io/blob/2301912bd8694e5abd81044b0e9b15c811cb5772/guides/mgsv-adding-player-motions/index.html). **BobDoleOwndU** authored the linked [BossQuiet2_layers GANI notes](https://github.com/chocmake/chocmake.github.io/blob/2301912bd8694e5abd81044b0e9b15c811cb5772/guides/mgsv-adding-player-motions/files/gani-descriptions/BobDoleOwndU/BossQuiet2_layers.txt), as credited in the guide's resource table. Other resource lists retain their individual authors (including **amars464** and **Shigu**). **KnochenGott** is credited for the separate enemy-animation workbook supplied by the user; the workbook is not redistributed. See [reviewed lessons, exact pins and reuse limits](docs/ANIMATION-REFERENCE.md). These are community reference credits, not authorship of this MCP or permission to redistribute upstream material.
+
 ## Capture/import tools and general software
 
 - **black_ninja (blackninja):** Ninja Ripper and the legacy ninja_importer. **3Doomer:** GIMS Evo importer. **Tosyk:** the CG in Games guide. **Rich Whitehouse:** Noesis. These credits follow the [publisher/guide attribution](https://cgig.ru/2012/10/ho-to-use-ninja-ripper/comment-page-19/) and [Ninja Ripper page](https://cgig.ru/ninjaripper/); no ripper/importer binary or bundled help is redistributed here.
